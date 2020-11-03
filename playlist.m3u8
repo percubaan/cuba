@@ -1,0 +1,137 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-ID="" group-title="Malaysia" tvg-logo="https://i.ibb.co/gmYKYPp/J.png", TV1
+https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/index.m3u8
+
+#EXTINF:-1 tvg-ID="" group-title="Malaysia" tvg-logo="https://i.ibb.co/gmYKYPp/J.png", TV2
+https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/index.m3u8
+
+#EXTINF:-1 tvg-ID="" group-title="Malaysia" tvg-logo="https://i.ibb.co/gmYKYPp/J.png", TV3
+
+#EXTINF:-1 tvg-ID="" group-title="Malaysia" tvg-logo="https://i.ibb.co/gmYKYPp/J.png", NTV7
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/NTV7.m3u8
+
+#EXTINF:-1 tvg-ID="" group-title="Malaysia" tvg-logo="https://i.ibb.co/gmYKYPp/J.png", 8TV
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/8TV.m3u8
+
+#EXTINF:-1 tvg-ID="" group-title="Malaysia" tvg-logo="https://i.ibb.co/gmYKYPp/J.png", TV9
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TV9.m3u8
+
+#EXTINF:-1 tvg-ID="" group-title="Malaysia" tvg-logo="https://i.ibb.co/gmYKYPp/J.png", DRAMA SANGAT
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/DramaSangat.m3u8
+
+#EXTINF:-1 tvg-ID="" group-title="Malaysia" tvg-logo="https://i.ibb.co/gmYKYPp/J.png", RTM SPORTS
+https://rtmsportshdmobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
+
+#EXTINF:-1 tvg-ID="" group-title="Malaysia" tvg-logo="https://i.ibb.co/gmYKYPp/J.png", BERITA RTM
+https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b1064000.m3u8
+
+#EXTINF:-1 tvg-ID="" group-title="Malaysia" tvg-logo="https://i.ibb.co/gmYKYPp/J.png", OKEY
+https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/index.m3u8
+
+#EXTINF:-1 tvg-ID="" group-title="Malaysia" tvg-logo="https://i.ibb.co/gmYKYPp/J.png", ASTRO NAURA
+https://fvtv.mywire.org/playlist/uwn5qna2wm-qywbpjhcrm.m3u8
+
+#EXTINF:-1 tvg-ID="" group-title="Malaysia" tvg-logo="https://i.ibb.co/gmYKYPp/J.png", ASTRO HELLO
+https://fvtv.mywire.org/playlist/9uhgasgstp-bfxkgv0t8s.m3u8
+
+#EXTINF:-1 tvg-ID="" group-title="Malaysia" tvg-logo="https://i.ibb.co/gmYKYPp/J.png", ASTRO QIYI
+ http://ts.lemmovie.com/e47300a4-e511-484f-b6dd-98de1483b71c.m3u8
+
+#EXTINF:-1 tvg-ID="" group-title="Malaysia" tvg-logo="https://i.ibb.co/gmYKYPp/J.png", ASTRO AWANI
+https://fvtv.mywire.org/playlist/fa1sdnjufp-bg4c8c1dp3.m3u8
+
+#EXTINF:-1 tvg-ID="" group-title="Malaysia" tvg-logo="https://i.ibb.co/gmYKYPp/J.png", ASTRO CERIA
+http://ts.lemmovie.com/ec85b2d2-8539-4d40-bfc2-64abcf7e8984.m3u8
+
+#EXTINF:-1 tvg-ID="" group-title="Malaysia" tvg-logo="https://i.ibb.co/gmYKYPp/J.png", ASTRO PRIMA
+http://ts.lemmovie.com/30194138-4d0c-4243-9438-21fd15a7216b.m3u8
+
+#EXTINF:-1 tvg-ID="" group-title="Malaysia" tvg-logo="https://i.ibb.co/gmYKYPp/J.png", ASTRO RIA
+http://ts.lemmovie.com/0d98a346-7dc3-46ac-93b8-62a4b1e2c578.m3u8
+
+#EXTINF:-1 tvg-ID="" group-title="Malaysia" tvg-logo="https://i.ibb.co/gmYKYPp/J.png", ASTRO WARNA
+http://ts.lemmovie.com/3c9b182b-5d7d-4ecd-8245-61307642f861.m3u8
+
+#EXTINF:-1 tvg-ID="" group-title="Malaysia" tvg-logo="https://i.ibb.co/gmYKYPp/J.png", CITRA DRAMA
+https://cdnjt25.useetv.com/joss/14/cdrama/index.m3u8
+
+#EXTINF:-1 tvg-ID="" group-title="Malaysia" tvg-logo="https://i.ibb.co/gmYKYPp/J.png", DUNIA LAIN
+https://cdnjt25.useetv.com/joss/14/dunialain/index.m3u8
+
+#EXTINF:-1 tvg-ID="" group-title="Malaysia" tvg-logo="https://i.ibb.co/gmYKYPp/J.png", ZEE BIOSKOP
+https://cdnjt25.useetv.com/joss/14/bioskopindonesia/index.m3u8
+
+#EXTINF:-1 tvg-ID="" group-title="Malaysia" tvg-logo="https://i.ibb.co/gmYKYPp/J.png", CINEMAX
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
+
+#EXTINF:-1 tvg-ID="" group-title="Malaysia" tvg-logo="https://i.ibb.co/gmYKYPp/J.png", HBO
+https://liveorigin01.hbogoasia.com/origin/live/main/MSIA/index.m3u8
+
+#EXTINF:-1 tvg-ID="" group-title="Malaysia" tvg-logo="https://i.ibb.co/gmYKYPp/J.png", HBO bakup
+https://dai3fd1oh325y.cloudfront.net/origin/live/main/MSIA/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vTVNJQS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjA0NDE4MjI2fX19XX0_&Signature=P7~6MehETo9KKR7BrTC1N1oAHjFUSQxix8jAlQU9Dk8bHOdhG5J-brqfOW~7h09xtlGKBgWMFDAeorfnnUPHvo76DncIVJnytwcXGdrarehHz-MBxyTnWWOOJygkL-fICKLDK1WdO-03d5CGpzSJDapJ7Da~4XSLfgZ26OGpMze~zGIaXcV6m2-wM8aE9TuujxQhOdfmAAiW-kFUjQzaq-ZT6ljiHE5F229HYXxMigW5iruVh24GMMO-MRLq5Y7DWIlDNTS2gO1gIl7BoNbpqsdlF7MMbEvXwmt3TRzASZfk~4hJat7yTTXBFcoTy~CLvZwO3Uayw-cqi4KGvEYynw__&Key-Pair-Id=APKAJFBTWETXLROKW43A
+#EXTINF:-1 tvg-ID="" group-title="Malaysia" tvg-logo="https://i.ibb.co/gmYKYPp/J.png", HBO HITS
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
+
+#EXTINF:-1 tvg-ID="" group-title="Malaysia" tvg-logo="https://i.ibb.co/gmYKYPp/J.png", HBO RED
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
+
+#EXTINF:-1 tvg-ID="" group-title="Malaysia" tvg-logo="https://i.ibb.co/gmYKYPp/J.png", HBO SIGNATURE
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
+
+#EXTINF:-1 tvg-ID="" group-title="Malaysia" tvg-logo="https://i.ibb.co/gmYKYPp/J.png", HBO FAMILY
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
+
+#EXTINF:-1 tvg-ID="" group-title="Malaysia" tvg-logo="https://i.ibb.co/gmYKYPp/J.png", FOX 
+https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/index.m3u8
+
+#EXTINF:-1 tvg-ID="" group-title="Malaysia" tvg-logo="https://i.ibb.co/gmYKYPp/J.png", FOX FAMILY
+https://livecdn.fptplay.net/hda/foxfamilymovies_2000.stream/index.m3u8
+
+#EXTINF:-1 tvg-ID="" group-title="Malaysia" tvg-logo="https://i.ibb.co/gmYKYPp/J.png", FOX MOVIES
+https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="" tvg-logo="https://i.ibb.co/gmYKYPp/J.png",KIX
+https://cdnjt25.useetv.com/joss/15/kix/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="" tvg-logo="https://i.ibb.co/gmYKYPp/J.png",WARNER TV
+https://cdnjt25.useetv.com/joss/15/warner/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="" tvg-logo="https://i.ibb.co/gmYKYPp/J.png",GALAXY
+https://cdnjt25.useetv.com/joss/15/galaxy/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="" tvg-logo="https://i.ibb.co/gmYKYPp/J.png",THRILL
+https://cdnjt25.useetv.com/joss/14/thrill/index.m3u8
+
+#EXTINF:-1 tvg-ID="" group-title="Sport" tvg-logo="https://i.ibb.co/gmYKYPp/J.png", BEIN 1
+https://cdnjt25.useetv.com/joss/15/bein1/index.m3u8
+
+#EXTINF:-1 tvg-ID="" group-title="SPORT" tvg-logo="https://i.ibb.co/gmYKYPp/J.png" , BEIN 2
+https://cdnjt25.useetv.com/joss/15/bein2/index.m3u8
+
+#EXTINF:-1 tvg-ID="" group-title="SPORT" tvg-logo="https://i.ibb.co/gmYKYPp/J.png", CHAMPION 1
+https://cdnjt25.useetv.com/joss/15/champion1/index.m3u8
+
+#EXTINF:-1 tvg-ID="" group-title="SPORT" tvg-logo="https://i.ibb.co/gmYKYPp/J.png", CHAMPION 2
+https://cdnjt25.useetv.com/joss/15/champion2/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="SPORT" tvg-logo="https://i.ibb.co/gmYKYPp/J.png",USEESPORT 1
+https://cdnjt25.useetv.com/joss/15/useesport/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="SPORT" tvg-logo="https://i.ibb.co/gmYKYPp/J.png",USEESPORT 2
+https://cdnjt25.useetv.com/joss/15/useesports2/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="SPORT" tvg-logo="https://i.ibb.co/gmYKYPp/J.png",FOX SPORT 
+https://cdnjt25.useetv.com/joss/15/foxsport1/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="SPORT" tvg-logo="https://i.ibb.co/gmYKYPp/J.png",FOX SPORT 2
+https://cdnjt25.useetv.com/joss/15/foxsport2/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="SPORT" tvg-logo="https://i.ibb.co/gmYKYPp/J.png",FOX SPORT 3
+https://cdnjt25.useetv.com/joss/15/foxsport3/index.m3u8
+
+#EXTINF:-1 tvg-ID="" group-title="SPORT" tvg-logo="https://i.ibb.co/gmYKYPp/J.png", EGG
+https://cdnjt25.useetv.com/joss/14/egg/index.m3u8
+
+#EXTINF:-1 tvg-ID="" group-title="SPORT" tvg-logo="https://i.ibb.co/gmYKYPp/J.png", test
+https://www.livedoomovie.com/02_FoxActionHD_720p/chunklist.m3u8
