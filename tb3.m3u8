@@ -1,1 +1,4 @@
-https://dailymotionlive.akamaized.net/sec(_9ERdFwnAbs1GZsc1AwhHcNCvbLJg_ugfDFrLoKv-Fo)/dm/3/x6qp375/d/live-3.m3u8
+#EXTM3U 
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1860000
+https://stream-03.dc3.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHcNCvbLJg_ugfDFrLoKv-Fo)/dm/3/x6qp375/d/live-3.m3u8
