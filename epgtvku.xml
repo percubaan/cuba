@@ -10,6 +10,10 @@
     <icon src="https://www.firstmedia.com/files/packages/channel_trans7.jpg" />
     <url>http://www.firstmedia.com</url>
   </channel>
+   <channel id="Astro Citra">
+    <display-name lang="en">Astro Citra-(free)</display-name>
+    <url>http://www.astro.com.my_c</url>
+  </channel>
  <programme start="20210107003000 +0700" stop="20210107013000 +0700" channel="NetTV.MACAN">
     <title lang="en">Waktu Indonesia Bercanda</title>
   </programme>
@@ -20,16 +24,16 @@
     <title lang="en">Tukul Arwana One Man Show</title>
     <desc lang="en">Komedian yang dikenal dengan logat bicara yang khas serta tingkah konyolnya selalu berhasil mengundang tawa pemirsa dirumah. Di setiap episode Tukul Arwana One Man Show akan menghadirkan artis kenamaan tanah air untuk turut menjadi narasumber dan berbagi kisah hidupnya.(n)</desc>
   </programme>
-  <programme start="20210108000000 +0700" stop="20210108013000 +0700" channel="Trans7.MACAN">
+  <programme start="20210108000000 +0700" stop="20210108013000 +0700" channel="NetTV.MACAN">
     <title lang="en">Theater</title>
   </programme>
-  <programme start="20210108013000 +0700" stop="20210108023000 +0700" channel="Trans7.MACAN">
+  <programme start="20210108013000 +0700" stop="20210108023000 +0700" channel="NetTV.MACAN">
     <title lang="en">Seribu Kisah</title>
   </programme>
-  <programme start="20210108023000 +0700" stop="20210108031500 +0700" channel="Trans7.MACAN">
+  <programme start="20210108023000 +0700" stop="20210108031500 +0700" channel="NetTV.MACAN">
     <title lang="en">Gara-Gara Magic</title>
   </programme>
-  <programme start="20210108031500 +0700" stop="20210108034500 +0700" channel="Trans7.MACAN">
+  <programme start="20210108031500 +0700" stop="20210108034500 +0700" channel="NetTV.MACAN">
     <title lang="en">Siapa Peduli</title>
   </programme>
   <programme start="20210108034500 +0700" stop="20210108041500 +0700" channel="Trans7.MACAN">
