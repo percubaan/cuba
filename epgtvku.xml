@@ -14,7 +14,7 @@
     <display-name lang="en">Astro Citra-(free)</display-name>
     <url>http://www.astro.com.my_c</url>
   </channel>
- <programme start="20210107003000 +0700" stop="20210107013000 +0700" channel="NetTV.MACAN">
+ <programme start="20210107003000 +0700" stop="20210107013000 +0700" channel="Astro Citra">
     <title lang="en">Waktu Indonesia Bercanda</title>
   </programme>
   <programme start="20210107013000 +0700" stop="20210107023000 +0700" channel="NetTV.MACAN">
@@ -36,22 +36,22 @@
   <programme start="20210108031500 +0700" stop="20210108034500 +0700" channel="NetTV.MACAN">
     <title lang="en">Siapa Peduli</title>
   </programme>
-  <programme start="20210108034500 +0700" stop="20210108041500 +0700" channel="Trans7.MACAN">
+  <programme start="20210108034500 +0700" stop="20210108041500 +0700" channel="Astro Citra">
     <title lang="en">Miraculous Ladybug</title>
   </programme>
-  <programme start="20210108041500 +0700" stop="20210108044500 +0700" channel="Trans7.MACAN">
+  <programme start="20210108041500 +0700" stop="20210108044500 +0700" channel="Astro Citra">
     <title lang="en">Monchhichi</title>
   </programme>
-  <programme start="20210108044500 +0700" stop="20210108053000 +0700" channel="Trans7.MACAN">
+  <programme start="20210108044500 +0700" stop="20210108053000 +0700" channel="Astro Citra">
     <title lang="en">Treasure Trekkers</title>
   </programme>
-  <programme start="20210108053000 +0700" stop="20210108060000 +0700" channel="Trans7.MACAN">
+  <programme start="20210108053000 +0700" stop="20210108060000 +0700" channel="Astro Citra">
     <title lang="en">Khazanah</title>
   </programme>
-  <programme start="20210108060000 +0700" stop="20210108070000 +0700" channel="Trans7.MACAN">
+  <programme start="20210108060000 +0700" stop="20210108070000 +0700" channel="Astro Citra">
     <title lang="en">Redaksi Pagi</title>
   </programme>
-  <programme start="20210108070000 +0700" stop="20210108073000 +0700" channel="Trans7.MACAN">
+  <programme start="20210108070000 +0700" stop="20210108073000 +0700" channel="Astro Citra">
     <title lang="en">Ragam Indonesia</title>
   </programme>
   <programme start="20210108073000 +0700" stop="20210108080000 +0700" channel="Trans7.MACAN">
