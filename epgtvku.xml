@@ -14,6 +14,10 @@
     <display-name lang="en">Astro Citra</display-name>
     <url>http://www.astro.com.my</url>
   </channel>
+   <channel id="Astro Prima">
+    <display-name lang="en">Astro Prima</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
  <programme start="20210107003000 +0700" stop="20210107013000 +0700" channel="Astro Citra">
     <title lang="en">Waktu Indonesia Bercanda</title>
   </programme>
@@ -54,7 +58,7 @@
   <programme start="20210108070000 +0700" stop="20210108073000 +0700" channel="Astro Citra">
     <title lang="en">Ragam Indonesia</title>
   </programme>
-  <programme start="20210108073000 +0700" stop="20210108080000 +0700" channel="Trans7.MACAN">
+  <programme start="20210108060000 +0700" stop="20210108070000 +0700" channel="Astro Prima">
     <title lang="en">Selebrita Pagi</title>
   </programme>
   <programme start="20210108080000 +0700" stop="20210108083000 +0700" channel="Trans7.MACAN">
