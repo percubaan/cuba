@@ -5,9 +5,9 @@
     <icon src="https://www.firstmedia.com/files/packages/NET-tv.jpg" />
     <url>http://www.firstmedia.com</url>
   </channel>
-  <channel id="Indosiar.MACAN">
-    <display-name lang="en">INDOSIAR</display-name>
-    <icon src="https://www.firstmedia.com/files/packages/tvlokal/indosiar.jpg" />
+  <channel id="Trans7.MACAN">
+    <display-name lang="en">TRANS 7</display-name>
+    <icon src="https://www.firstmedia.com/files/packages/channel_trans7.jpg" />
     <url>http://www.firstmedia.com</url>
   </channel>
  <programme start="20210107003000 +0700" stop="20210107013000 +0700" channel="NetTV.MACAN">
