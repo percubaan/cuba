@@ -12,7 +12,7 @@
   </channel>
    <channel id="Astro Citra">
     <display-name lang="en">Astro Citra</display-name>
-    <url>http://www.astro.com.my_c</url>
+    <url>http://www.astro.com.my</url>
   </channel>
  <programme start="20210107003000 +0700" stop="20210107013000 +0700" channel="Astro Citra">
     <title lang="en">Waktu Indonesia Bercanda</title>
