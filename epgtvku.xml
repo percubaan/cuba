@@ -2,12 +2,12 @@
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.1.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="NetTV.MACAN">
     <display-name lang="en">NET.</display-name>
-    <icon src="https://www.firstmedia.com/files/packages/NET-tv.jpg" />
+    <icon src="https://www.firstmedia.com/files/packages/NbET-tv.jpg" />
     <url>http://www.firstmedia.com</url>
   </channel>
   <channel id="Trans7.MACAN">
     <display-name lang="en">TRANS 7</display-name>
-    <icon src="https://www.firstmedia.com/files/packages/channel_trans7.jpg" />
+    <icon src="https://www.firstmedia.com/files/packages/chbannel_trans7.jpg" />
     <url>http://www.firstmedia.com</url>
   </channel>
    <channel id="Astro Citra">
