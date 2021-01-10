@@ -1,4 +1,8 @@
 <tv generator-info-name="WebGrab+Plus/w MDB & REX Postprocess -- version V3.1.1.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+<channel id="WAKUWAKUJAPAN.MACAN">
+<display-name lang="en">WAKUWAKU JAPAN (HD) (Malay)</display-name>
+<url>http://www.singteltv.com.sg</url>
+</channel>
 <channel id="ZeeCinema.sg">
 <display-name lang="en">ZEE Cinema</display-name>
 <url>http://www.singteltv.com.sg</url>
@@ -2966,10 +2970,6 @@
 <title lang="en">The Curry Songs</title>
 <desc lang="en">Abandoned by his parents, Yoichiro has spent his life wandering the world. Due to a certain incident, he meets a shy university student hoping to become an artist?Nita. Nita treats the money-less Yoichiro to curry to repay him, and he slowly opens up abou.(n)</desc>
 </programme>
-<channel id="WAKUWAKUJAPAN.MACAN">
-<display-name lang="en">WAKUWAKU JAPAN (HD) (Malay)</display-name>
-<url>http://www.singteltv.com.sg</url>
-</channel>
 <programme start="20210110003000 +0800" stop="20210110013000 +0800" channel=="WAKUWAKUJAPAN.MACAN">
 <title lang="en">VS ARASHI</title>
 <desc lang="en">A variety show in which "Arashi" and a guest or two form a team to compete against a guest team in physical games.(n)</desc>
