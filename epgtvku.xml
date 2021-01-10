@@ -1,5 +1,9 @@
 This XML file does not appear to have any style information associated with it. The document tree is shown below.
 <tv generator-info-name="WebGrab+Plus/w MDB & REX Postprocess -- version V3.1.1.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+<channel id="ZeeCinema.sg">
+<display-name lang="en">ZEE Cinema</display-name>
+<url>http://www.singteltv.com.sg</url>
+</channel>
 <channel id="NetTV.MACAN">
 <display-name lang="en">NET.</display-name>
 <url>http://www.firstmedia.com</url>
@@ -2727,10 +2731,6 @@ This XML file does not appear to have any style information associated with it. 
 <programme start="20210110235000 +0700" stop="20210111020000 +0700" channel="beINSports2.MACAN">
 <title lang="id">Serie A 2020/21: FIO Vs CAG (L)</title>
 </programme>
-<channel id="ZeeCinema.sg">
-<display-name lang="en">ZEE Cinema</display-name>
-<url>http://www.singteltv.com.sg</url>
-</channel>
 <programme start="20210110010000 +0800" stop="20210110013000 +0800" channel="ZeeCinema.sg">
 <title lang="en">Zee Super Family</title>
 <desc lang="en">Stars from ZeeCinema.sg's various fictional shows compete against each other by performing interesting tasks, in order to win the coveted title.(n)</desc>
