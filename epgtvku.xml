@@ -388,6 +388,10 @@
 <display-name lang="en">BABY FIRST</display-name>
 <url>http://www.firstmedia.com</url>
 </channel>
+<channel id="ZeeCinema.MACAN">
+<display-name lang="en">ZeeCinema.MACAN</display-name> 
+<url>http://www.singteltv.com.sg</url> 
+</channel>
 <channel id="DW.MACAN">
 <display-name lang="en">DW</display-name>
 <url>http://www.firstmedia.com</url>
@@ -2726,10 +2730,6 @@
 <programme start="20210110235000 +0700" stop="20210111020000 +0700" channel="beINSports2.MACAN">
 <title lang="id">Serie A 2020/21: FIO Vs CAG (L)</title>
 </programme>
- <channel id="ZeeCinema.MACAN">
-  <display-name lang="en">ZeeCinema.MACAN</display-name> 
-  <url>http://www.singteltv.com.sg</url> 
-  </channel>
 <programme start="20210110010000 +0800" stop="20210110013000 +0800" channel="ZeeCinema.MACAN">
   <title lang="en">Zee Super Family</title> 
   <desc lang="en">Stars from ZeeCinema.MACAN's various fictional shows compete against each other by performing interesting tasks, in order to win the coveted title.(n)</desc> 
