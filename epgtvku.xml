@@ -1,4 +1,8 @@
 <tv generator-info-name="WebGrab+Plus/w MDB & REX Postprocess -- version V3.1.1.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+<channel id="ZeeCinema.sg">
+<display-name lang="en">ZEE Cinema</display-name>
+<url>http://www.singteltv.com.sg</url>
+</channel>
 <channel id="WAKUWAKUJAPAN.MACAN">
 <display-name lang="en">Waku Waku Japan</display-name>
 <url>http://www.singteltv.com.sg</url>
