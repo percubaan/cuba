@@ -2726,4 +2726,153 @@
 <programme start="20210110235000 +0700" stop="20210111020000 +0700" channel="beINSports2.MACAN">
 <title lang="id">Serie A 2020/21: FIO Vs CAG (L)</title>
 </programme>
-</tv>
+  <channel id="Zee Tamil">
+  <display-name lang="en">Zee Tamil</display-name> 
+  <url>http://www.singteltv.com.sg</url> 
+  </channel>
+- <programme start="20210110010000 +0800" stop="20210110013000 +0800" channel="Zee Tamil">
+  <title lang="en">Zee Super Family</title> 
+  <desc lang="en">Stars from Zee Tamil's various fictional shows compete against each other by performing interesting tasks, in order to win the coveted title.(n)</desc> 
+  </programme>
+- <programme start="20210110013000 +0800" stop="20210110020000 +0800" channel="Zee Tamil">
+  <title lang="en">Zee Super Family</title> 
+  <desc lang="en">Stars from Zee Tamil's various fictional shows compete against each other by performing interesting tasks, in order to win the coveted title.(n)</desc> 
+  </programme>
+- <programme start="20210110020000 +0800" stop="20210110030000 +0800" channel="Zee Tamil">
+  <title lang="en">Zee Super Family</title> 
+  <desc lang="en">Stars from Zee Tamil's various fictional shows compete against each other by performing interesting tasks, in order to win the coveted title.(n)</desc> 
+  </programme>
+- <programme start="20210110030000 +0800" stop="20210110033000 +0800" channel="Zee Tamil">
+  <title lang="en">Neethane Enthan Ponvasantham</title> 
+  <desc lang="en">Anu, a 20-year-old girl, falls in love with Surya, a 40-year-old business tycoon. Being from different eras, the two go through various ordeals but try to overcome these challenges to stay together.(n)</desc> 
+  </programme>
+- <programme start="20210110033000 +0800" stop="20210110040000 +0800" channel="Zee Tamil">
+  <title lang="en">Gokulathil Seethai</title> 
+  <desc lang="en">Asha, a young woman belonging to a middle-class family, tries to change the arrogant and rich Arjun into a responsible person.(n)</desc> 
+  </programme>
+- <programme start="20210110040000 +0800" stop="20210110043000 +0800" channel="Zee Tamil">
+  <title lang="en">Yaaradi Nee Mohini</title> 
+  <desc lang="en">Venilla's cousin refuses to marry her despite her pleas, as he is going through a tough phase in life. While Venilla is heartbroken, the spirit inside her has other plans.(n)</desc> 
+  </programme>
+- <programme start="20210110043000 +0800" stop="20210110050000 +0800" channel="Zee Tamil">
+  <title lang="en">Sembaruthi</title> 
+  <desc lang="en">After the death of her grandmother, Parvathi decides to work as a maid at Akhilandeshwari's house. However, things take a turn when she falls in love with Akhilandeshwari's son, Adhithya.(n)</desc> 
+  </programme>
+- <programme start="20210110050000 +0800" stop="20210110053000 +0800" channel="Zee Tamil">
+  <title lang="en">Oru Oorula Oru Rajakumari</title> 
+  <desc lang="en">Vasanth is hesitant before marrying Rasathi, a sweet but healthy girl. However, his apprehension does not stop her from overcoming life's battles with grace and aplomb.(n)</desc> 
+  </programme>
+- <programme start="20210110053000 +0800" stop="20210110060000 +0800" channel="Zee Tamil">
+  <title lang="en">Sathya</title> 
+  <desc lang="en">Sathya, a headstrong girl, is forced to get married to Prabhu due to unforeseen circumstances. However, after initial differences, the two of them bond and Prabhu helps her fulfil her dreams.(n)</desc> 
+  </programme>
+- <programme start="20210110060000 +0800" stop="20210110063000 +0800" channel="Zee Tamil">
+  <title lang="en">Genes</title> 
+  <desc lang="en">Families compete in front of a panel comprising celebrities to prove that they have the greatest compatibility and genetic similarities. The family which makes it to the end wins a hefty cash prize.(n)</desc> 
+  </programme>
+- <programme start="20210110063000 +0800" stop="20210110070000 +0800" channel="Zee Tamil">
+  <title lang="en">Genes</title> 
+  <desc lang="en">Families compete in front of a panel comprising celebrities to prove that they have the greatest compatibility and genetic similarities. The family which makes it to the end wins a hefty cash prize.(n)</desc> 
+  </programme>
+- <programme start="20210110070000 +0800" stop="20210110073000 +0800" channel="Zee Tamil">
+  <title lang="en">Zee Super Family</title> 
+  <desc lang="en">Stars from Zee Tamil's various fictional shows compete against each other by performing interesting tasks, in order to win the coveted title.(n)</desc> 
+  </programme>
+- <programme start="20210110073000 +0800" stop="20210110080000 +0800" channel="Zee Tamil">
+  <title lang="en">Zee Super Family</title> 
+  <desc lang="en">Stars from Zee Tamil's various fictional shows compete against each other by performing interesting tasks, in order to win the coveted title.(n)</desc> 
+  </programme>
+- <programme start="20210110080000 +0800" stop="20210110083000 +0800" channel="Zee Tamil">
+  <title lang="en">Zee Super Family</title> 
+  <desc lang="en">Stars from Zee Tamil's various fictional shows compete against each other by performing interesting tasks, in order to win the coveted title.(n)</desc> 
+  </programme>
+- <programme start="20210110083000 +0800" stop="20210110090000 +0800" channel="Zee Tamil">
+  <title lang="en">Zee Super Family</title> 
+  <desc lang="en">Stars from Zee Tamil's various fictional shows compete against each other by performing interesting tasks, in order to win the coveted title.(n)</desc> 
+  </programme>
+- <programme start="20210110090000 +0800" stop="20210110093000 +0800" channel="Zee Tamil">
+  <title lang="en">Gethu Seniors Vs Khilladi Juniors</title> 
+  <desc lang="en">Talented senior and young actors of the channel compete against each other in fun activities and showcase their dance performance on the occasion of New Year.(n)</desc> 
+  </programme>
+- <programme start="20210110093000 +0800" stop="20210110100000 +0800" channel="Zee Tamil">
+  <title lang="en">Gethu Seniors Vs Khilladi Juniors</title> 
+  <desc lang="en">Talented senior and young actors of the channel compete against each other in fun activities and showcase their dance performance on the occasion of New Year.(n)</desc> 
+  </programme>
+- <programme start="20210110100000 +0800" stop="20210110103000 +0800" channel="Zee Tamil">
+  <title lang="en">Gethu Seniors Vs Khilladi Juniors</title> 
+  <desc lang="en">Talented senior and young actors of the channel compete against each other in fun activities and showcase their dance performance on the occasion of New Year.(n)</desc> 
+  </programme>
+- <programme start="20210110103000 +0800" stop="20210110110000 +0800" channel="Zee Tamil">
+  <title lang="en">Tamizha Tamizha</title> 
+  <desc lang="en">The host interacts with the audience and holds discussions and debates on the most pertinent social issues, which is later concluded with a verdict considering public voting.(n)</desc> 
+  </programme>
+- <programme start="20210110110000 +0800" stop="20210110113000 +0800" channel="Zee Tamil">
+  <title lang="en">Tamizha Tamizha</title> 
+  <desc lang="en">The host interacts with the audience and holds discussions and debates on the most pertinent social issues, which is later concluded with a verdict considering public voting.(n)</desc> 
+  </programme>
+- <programme start="20210110113000 +0800" stop="20210110120000 +0800" channel="Zee Tamil">
+  <title lang="en">Tamizha Tamizha</title> 
+  <desc lang="en">The host interacts with the audience and holds discussions and debates on the most pertinent social issues, which is later concluded with a verdict considering public voting.(n)</desc> 
+  </programme>
+- <programme start="20210110120000 +0800" stop="20210110123000 +0800" channel="Zee Tamil">
+  <title lang="en">Zee Super Family</title> 
+  <desc lang="en">Stars from Zee Tamil's various fictional shows compete against each other by performing interesting tasks, in order to win the coveted title.(n)</desc> 
+  </programme>
+- <programme start="20210110123000 +0800" stop="20210110130000 +0800" channel="Zee Tamil">
+  <title lang="en">Zee Super Family</title> 
+  <desc lang="en">Stars from Zee Tamil's various fictional shows compete against each other by performing interesting tasks, in order to win the coveted title.(n)</desc> 
+  </programme>
+- <programme start="20210110130000 +0800" stop="20210110133000 +0800" channel="Zee Tamil">
+  <title lang="en">Zee Super Family</title> 
+  <desc lang="en">Stars from Zee Tamil's various fictional shows compete against each other by performing interesting tasks, in order to win the coveted title.(n)</desc> 
+  </programme>
+- <programme start="20210110133000 +0800" stop="20210110140000 +0800" channel="Zee Tamil">
+  <title lang="en">Zee Super Family</title> 
+  <desc lang="en">Stars from Zee Tamil's various fictional shows compete against each other by performing interesting tasks, in order to win the coveted title.(n)</desc> 
+  </programme>
+- <programme start="20210110140000 +0800" stop="20210110143000 +0800" channel="Zee Tamil">
+  <title lang="en">Genes</title> 
+  <desc lang="en">Families compete in front of a panel comprising celebrities to prove that they have the greatest compatibility and genetic similarities. The family which makes it to the end wins a hefty cash prize.(n)</desc> 
+  </programme>
+- <programme start="20210110143000 +0800" stop="20210110150000 +0800" channel="Zee Tamil">
+  <title lang="en">Genes</title> 
+  <desc lang="en">Families compete in front of a panel comprising celebrities to prove that they have the greatest compatibility and genetic similarities. The family which makes it to the end wins a hefty cash prize.(n)</desc> 
+  </programme>
+- <programme start="20210110150000 +0800" stop="20210110153000 +0800" channel="Zee Tamil">
+  <title lang="en">Puratchiyalar Dr. Ambedkar</title> 
+  <desc lang="en">Preyed upon due to socio-economic discrimination, Bhimrao Ramji Ambedkar, a young boy from a poor family, strives for basic human rights and equality for all.(n)</desc> 
+  </programme>
+- <programme start="20210110153000 +0800" stop="20210110160000 +0800" channel="Zee Tamil">
+  <title lang="en">Puratchiyalar Dr. Ambedkar</title> 
+  <desc lang="en">Preyed upon due to socio-economic discrimination, Bhimrao Ramji Ambedkar, a young boy from a poor family, strives for basic human rights and equality for all.(n)</desc> 
+  </programme>
+- <programme start="20210110160000 +0800" stop="20210110183000 +0800" channel="Zee Tamil">
+  <title lang="en">Kuttrame Thandanai</title> 
+  <desc lang="en">Ravi is suffering from a rare condition that is causing him to lose his eyesight. When he realises he has no money for his surgery, he begins blackmailing two men who are suspects in a murder trial.(n)</desc> 
+  </programme>
+- <programme start="20210110183000 +0800" stop="20210110190000 +0800" channel="Zee Tamil">
+  <title lang="en">Suryavamsam</title> 
+  <desc lang="en">Kalyani's family disowns her after she gets married to a foreigner without their approval. Years later, Kalyani's daughter decides to reunite the family after Kalyani falls sick.(n)</desc> 
+  </programme>
+- <programme start="20210110190000 +0800" stop="20210110193000 +0800" channel="Zee Tamil">
+  <title lang="en">Neethane Enthan Ponvasantham</title> 
+  <desc lang="en">Anu, a 20-year-old girl, falls in love with Surya, a 40-year-old business tycoon. Being from different eras, the two go through various ordeals but try to overcome these challenges to stay together.(n)</desc> 
+  </programme>
+- <programme start="20210110193000 +0800" stop="20210110200000 +0800" channel="Zee Tamil">
+  <title lang="en">Gokulathil Seethai</title> 
+  <desc lang="en">Asha, a young woman belonging to a middle-class family, tries to change the arrogant and rich Arjun into a responsible person.(n)</desc> 
+  </programme>
+- <programme start="20210110200000 +0800" stop="20210110203000 +0800" channel="Zee Tamil">
+  <title lang="en">Yaaradi Nee Mohini</title> 
+  <desc lang="en">Venilla's cousin refuses to marry her despite her pleas, as he is going through a tough phase in life. While Venilla is heartbroken, the spirit inside her has other plans.(n)</desc> 
+  </programme>
+- <programme start="20210110203000 +0800" stop="20210110210000 +0800" channel="Zee Tamil">
+  <title lang="en">Sembaruthi</title> 
+  <desc lang="en">After the death of her grandmother, Parvathi decides to work as a maid at Akhilandeshwari's house. However, things take a turn when she falls in love with Akhilandeshwari's son, Adhithya.(n)</desc> 
+  </programme>
+- <programme start="20210110210000 +0800" stop="20210110220000 +0800" channel="Zee Tamil">
+  <title lang="en">Oru Oorula Oru Rajakumari & Sathya</title> 
+  <desc lang="en">A healthy girl, Rasathi, does not let anything deter her from fighting life's battles; Sathya, a headstrong girl, is forced to marry Prabhu due to unforeseen circumstances.(n)</desc> 
+  </programme>
+  </tv>
+  
