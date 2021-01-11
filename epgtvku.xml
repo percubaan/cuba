@@ -1,4 +1,68 @@
 <tv generator-info-name="WebGrab+Plus/w MDB & REX Postprocess -- version V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+<channel id="Lifetime.MACAN">
+<display-name lang="en">Lifetime.MACAN</display-name>
+<url>http://www.singteltv.com.sg</url>
+</channel>
+<channel id="AXNHD.MACAN">
+<display-name lang="en">AXNHD.MACAN</display-name>
+<url>http://www.singteltv.com.sg</url>
+</channel>
+<channel id="WarnerTV.MACAN">
+<display-name lang="en">Warner TV (HD)</display-name>
+<url>http://www.singteltv.com.sg</url>
+</channel>
+<channel id="KIX.MACAN">
+<display-name lang="en">KIX.MACAN</display-name>
+<url>http://www.singteltv.com.sg</url>
+</channel>
+<channel id="Hits.MACAN">
+<display-name lang="en">HITS (HD)</display-name>
+<url>http://www.singteltv.com.sg</url>
+</channel>
+<channel id="FOX.MACAN">
+<display-name lang="en">FOX.MACAN</display-name>
+<url>http://www.singteltv.com.sg</url>
+</channel>
+<channel id="Animax.MACAN">
+<display-name lang="en">Animax.MACAN</display-name>
+<url>http://www.singteltv.com.sg</url>
+</channel>
+<channel id="FOXActionMoviesHD.MACAN">
+<display-name lang="en">FOXActionMoviesHD.MACAN</display-name>
+<url>http://www.singteltv.com.sg</url>
+</channel>
+<channel id="FOXMoviesPremiumHD.MACAN">
+<display-name lang="en">FOXMoviesPremiumHD.MACAN</display-name>
+<url>http://www.singteltv.com.sg</url>
+</channel>
+<channel id="Thrill.MACAN">
+<display-name lang="en">Thrill.MACAN</display-name>
+<url>http://www.singteltv.com.sg</url>
+</channel>
+<channel id="HBOHD.MACAN">
+<display-name lang="en">HBOHD.MACAN</display-name>
+<url>http://www.singteltv.com.sg</url>
+</channel>
+<channel id="HBOSignatureHD.MACAN">
+<display-name lang="en">HBOSignatureHD.MACAN</display-name>
+<url>http://www.singteltv.com.sg</url>
+</channel>
+<channel id="HBOFamilyHD.MACAN">
+<display-name lang="en">HBOFamilyHD.MACAN</display-name>
+<url>http://www.singteltv.com.sg</url>
+</channel>
+<channel id="HBOHitsHD.MACAN">
+<display-name lang="en">HBOHitsHD.MACAN</display-name>
+<url>http://www.singteltv.com.sg</url>
+</channel>
+<channel id="CINEMAX.MACAN">
+<display-name lang="en">CINEMAX.MACAN</display-name>
+<url>http://www.singteltv.com.sg</url>
+</channel>
+<channel id="RED.MACAN">
+<display-name lang="en">RED.MACAN</display-name>
+<url>http://www.singteltv.com.sg</url>
+</channel>
 <channel id="DiscoveryChannel.MACAN">
 <display-name lang="en">DiscoveryChannel.MACAN</display-name>
 <url>http://www.singteltv.com.sg</url>
@@ -763,70 +827,6 @@
 <title lang="en">Xpedition China: The Search For Shangri-La (S1)</title>
 <desc lang="en">The Terracotta Soldiers in Xi'an China is one of the most astonishing archaeological discoveries in human history.(n)</desc>
 </programme>
-<channel id="Lifetime.MACAN">
-<display-name lang="en">Lifetime.MACAN</display-name>
-<url>http://www.singteltv.com.sg</url>
-</channel>
-<channel id="AXNHD.MACAN">
-<display-name lang="en">AXNHD.MACAN</display-name>
-<url>http://www.singteltv.com.sg</url>
-</channel>
-<channel id="WarnerTV.MACAN">
-<display-name lang="en">Warner TV (HD)</display-name>
-<url>http://www.singteltv.com.sg</url>
-</channel>
-<channel id="KIX.MACAN">
-<display-name lang="en">KIX.MACAN</display-name>
-<url>http://www.singteltv.com.sg</url>
-</channel>
-<channel id="Hits.MACAN">
-<display-name lang="en">HITS (HD)</display-name>
-<url>http://www.singteltv.com.sg</url>
-</channel>
-<channel id="FOX.MACAN">
-<display-name lang="en">FOX.MACAN</display-name>
-<url>http://www.singteltv.com.sg</url>
-</channel>
-<channel id="Animax.MACAN">
-<display-name lang="en">Animax.MACAN</display-name>
-<url>http://www.singteltv.com.sg</url>
-</channel>
-<channel id="FOXActionMoviesHD.MACAN">
-<display-name lang="en">FOXActionMoviesHD.MACAN</display-name>
-<url>http://www.singteltv.com.sg</url>
-</channel>
-<channel id="FOXMoviesPremiumHD.MACAN">
-<display-name lang="en">FOXMoviesPremiumHD.MACAN</display-name>
-<url>http://www.singteltv.com.sg</url>
-</channel>
-<channel id="Thrill.MACAN">
-<display-name lang="en">Thrill.MACAN</display-name>
-<url>http://www.singteltv.com.sg</url>
-</channel>
-<channel id="HBOHD.MACAN">
-<display-name lang="en">HBOHD.MACAN</display-name>
-<url>http://www.singteltv.com.sg</url>
-</channel>
-<channel id="HBOSignatureHD.MACAN">
-<display-name lang="en">HBOSignatureHD.MACAN</display-name>
-<url>http://www.singteltv.com.sg</url>
-</channel>
-<channel id="HBOFamilyHD.MACAN">
-<display-name lang="en">HBOFamilyHD.MACAN</display-name>
-<url>http://www.singteltv.com.sg</url>
-</channel>
-<channel id="HBOHitsHD.MACAN">
-<display-name lang="en">HBOHitsHD.MACAN</display-name>
-<url>http://www.singteltv.com.sg</url>
-</channel>
-<channel id="CINEMAX.MACAN">
-<display-name lang="en">CINEMAX.MACAN</display-name>
-<url>http://www.singteltv.com.sg</url>
-</channel>
-<channel id="RED.MACAN">
-<display-name lang="en">RED.MACAN</display-name>
-<url>http://www.singteltv.com.sg</url>
-</channel>
 <programme start="20210111002500 +0800" stop="20210111012500 +0800" channel="Lifetime.MACAN">
 <title lang="en">Up! Pretty</title>
 <desc lang="en">Freshest ever beauty tips and adored items of K-pop girl group La Boum surface; experts share reviews of UV protection lotions; two beauty masters look for the best make-up for teenagers.(n)</desc>
