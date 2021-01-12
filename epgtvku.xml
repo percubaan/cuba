@@ -1,150 +1,20 @@
 <tv generator-info-name="WebGrab+Plus/w MDB & REX Postprocess -- version V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-<channel id="TV1">
-<display-name lang="en">TV1</display-name>
+<channel id="TV1.my">
+<display-name lang="en">TV1.my</display-name>
 <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/95_144.png"/>
 <url>http://www.astro.com.my</url>
 </channel>
-<channel id="TV2">
-<display-name lang="en">TV2</display-name>
+<channel id="TV2.my">
+<display-name lang="en">TV2.my</display-name>
 <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/103_144.png"/>
 <url>http://www.astro.com.my</url>
 </channel>
-<channel id="TV3">
-<display-name lang="en">TV3</display-name>
+<channel id="TV3.my">
+<display-name lang="en">TV3.my</display-name>
 <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png"/>
 <url>http://www.astro.com.my</url>
 </channel>
-<programme start="20210111160000 +0000" stop="20210111163000 +0000" channel="TV1">
-<title lang="en">Berita Tengah Malam</title>
-<desc lang="en">Saksikan Berita Nasional yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.(n)</desc>
-<category lang="en">News</category>
-<category lang="en">Current Affairs</category>
-<rating system="MY">
-<value>U</value>
-</rating>
-</programme>
-<programme start="20210111163000 +0000" stop="20210111170000 +0000" channel="TV1">
-<title lang="en">Pewaris Legasi</title>
-<desc lang="en">Paparan lanjut tentang keunikan Anyaman Dastar yang diusahakan oleh Pn. Pn Hjh Pandian Hj Sulaiman bersama warisnya Mas Patingan Samsul & Salamiah Hj Uding.(n)</desc>
-<category lang="en">Documentary</category>
-<rating system="MY">
-<value>U</value>
-</rating>
-</programme>
-<programme start="20210111170000 +0000" stop="20210111173000 +0000" channel="TV1">
-<title lang="en">Agropreneur Muda</title>
-<desc lang="en">Shah Hazree berkongsi kisah kejayaan perusahaan Pasago bersama Kurniawan Zakaria serta pengusaha taman agro bersama Nabila Shahruddin dan Hafiz Shahruddin.(n)</desc>
-<category lang="en">Documentary</category>
-<rating system="MY">
-<value>U</value>
-</rating>
-</programme>
-<programme start="20210111173000 +0000" stop="20210111180000 +0000" channel="TV1">
-<title lang="en">Sfera</title>
-<desc lang="en">Sebuah rancangan majalah yang memaparkan pelbagai topik menarik untuk tatapan para penonton.(n)</desc>
-<category lang="en">Documentary</category>
-<rating system="MY">
-<value>U</value>
-</rating>
-</programme>
-<programme start="20210111180000 +0000" stop="20210111183000 +0000" channel="TV1">
-<title lang="en">Pantau</title>
-<desc lang="en">Ketahui dengan lanjut tentang Pemantauan dan Penyelengaraan Fasiliti Jalan Raya bersama Yusmal Ghazali.(n)</desc>
-<category lang="en">Documentary</category>
-<rating system="MY">
-<value>U</value>
-</rating>
-</programme>
-<programme start="20210111183000 +0000" stop="20210111190000 +0000" channel="TV1">
-<title lang="en">Ekspresi Eko</title>
-<desc lang="en">Saksikan perjalanan Nurata Amin ke Taman Bukit Tawau.(n)</desc>
-<category lang="en">Documentary</category>
-<rating system="MY">
-<value>U</value>
-</rating>
-</programme>
-<programme start="20210111190000 +0000" stop="20210111193000 +0000" channel="TV1">
-<title lang="en">Kembara Damai</title>
-<desc lang="en">Mengembara ke tempat-tempat menarik di sekitar Bangkok, Thailand antaranya Stesen Hua Lamphong, Stesen Ayutthaya, Wat Rachaburana, Wat Mahathat, Ayutthaya Elephant Palace dan Masjid Jamiul Islam.(n)</desc>
-<category lang="en">Documentary</category>
-<category lang="en">Religious</category>
-<rating system="MY">
-<value>U</value>
-</rating>
-</programme>
-<programme start="20210111193000 +0000" stop="20210111203000 +0000" channel="TV1">
-<title lang="en">Dari Mata Arisa</title>
-<desc lang="en">Mengisahkan persengketaan di antara dua beradik kembar yang tidak mengenal sempadan sehingga sanggup menbunuh semata-mata untuk memuaskan nafsu dendam kesumatnya.(n)</desc>
-<category lang="en">TV Show/Series</category>
-<category lang="en">Drama</category>
-<rating system="MY">
-<value>U</value>
-</rating>
-</programme>
-<programme start="20210111203000 +0000" stop="20210111210000 +0000" channel="TV1">
-<title lang="en">Boleh Tumpangkan Saya</title>
-<desc lang="en">Bersama Ebi Kornelis di Negeri Pahang.(n)</desc>
-<category lang="en">Lifestyle</category>
-<category lang="en">Travel</category>
-<rating system="MY">
-<value>U</value>
-</rating>
-</programme>
-<programme start="20210111210000 +0000" stop="20210111220000 +0000" channel="TV1">
-<title lang="en">Nana Nini Nunu</title>
-<desc lang="en">Satu malam, mereka telah menyamar menjadi hantu untuk mengenakan kumpulan Alif Bata tetapi sebaliknya Bonda menjadi mangsa dengan tidak sengaja!(n)</desc>
-<category lang="en">TV Show/Series</category>
-<category lang="en">Drama</category>
-<rating system="MY">
-<value>U</value>
-</rating>
-</programme>
-<programme start="20210111220000 +0000" stop="20210111223000 +0000" channel="TV1">
-<title lang="en">Kembara Damai</title>
-<desc lang="en">Mengembara ke tempat-tempat menarik di sekitar Manila, Filipina antaranya Fort Santiago, Dulang Halal Restaurant Adriatica Street, Rizal Park, Divisoria Market Metro Manila bersama Maulana.(n)</desc>
-<category lang="en">Documentary</category>
-<category lang="en">Religious</category>
-<rating system="MY">
-<value>U</value>
-</rating>
-</programme>
-<programme start="20210111223000 +0000" stop="20210111230000 +0000" channel="TV1">
-<title lang="en">Persada Jurnal</title>
-<desc lang="en">Saksikan paparan istimewa berkaitan 'Masjid Cina Negeri Melaka'.(n)</desc>
-<category lang="en">Lifestyle</category>
-<category lang="en">Travel</category>
-<rating system="MY">
-<value>U</value>
-</rating>
-</programme>
-<programme start="20210111230000 +0000" stop="20210111233000 +0000" channel="TV1">
-<title lang="en">Berita Pagi</title>
-<desc lang="en">Saksikan berita pagi yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.(n)</desc>
-<category lang="en">News</category>
-<category lang="en">Current Affairs</category>
-<rating system="MY">
-<value>U</value>
-</rating>
-</programme>
-<programme start="20210111233000 +0000" stop="20210111234500 +0000" channel="TV1">
-<title lang="en">Berita Pagi Sabah</title>
-<desc lang="en">Saksikan berita yang memaparkan perkembangan terkini dan isu-isu semasa dari Sabah.(n)</desc>
-<category lang="en">News</category>
-<category lang="en">Current Affairs</category>
-<rating system="MY">
-<value>U</value>
-</rating>
-</programme>
-<programme start="20210111234500 +0000" stop="20210112000000 +0000" channel="TV1">
-<title lang="en">Berita Pagi Sarawak</title>
-<desc lang="en">Saksikan berita yang memaparkan perkembangan terkini dan isu-isu semasa dari Sarawak.(n)</desc>
-<category lang="en">News</category>
-<category lang="en">Current Affairs</category>
-<rating system="MY">
-<value>U</value>
-</rating>
-</programme>
-<programme start="20210112000000 +0000" stop="20210112020000 +0000" channel="TV1">
+<programme start="20210112000000 +0000" stop="20210112020000 +0000" channel="TV1.my">
 <title lang="en">(L) Selamat Pagi Malaysia</title>
 <desc lang="en">Ikuti kupasan pelbagai topik menarik dalam program bual bicara berbentuk interaktif Selamat Pagi Malaysia (Nadi Seri Pagi).(n)</desc>
 <category lang="en">News</category>
@@ -153,7 +23,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210112020000 +0000" stop="20210112023000 +0000" channel="TV1">
+<programme start="20210112020000 +0000" stop="20210112023000 +0000" channel="TV1.my">
 <title lang="en">Perutusan Khas</title>
 <desc lang="en">Perutusan Khas Perlaksanaan Perintah Kawalan Pergerakan oleh YAB Tan Sri Muhyiddin Mohd Yassin, Perdana Menteri Malaysia.(n)</desc>
 <category lang="en">News</category>
@@ -162,7 +32,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210112023000 +0000" stop="20210112030000 +0000" channel="TV1">
+<programme start="20210112023000 +0000" stop="20210112030000 +0000" channel="TV1.my">
 <title lang="en">Gadis Dan Gua</title>
 <desc lang="en">Jom! Ikut Natasha Charmine menjelajah ke Gua Jepun dan Gua Air, Baling Kedah.(n)</desc>
 <category lang="en">Documentary</category>
@@ -170,7 +40,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210112030000 +0000" stop="20210112033000 +0000" channel="TV1">
+<programme start="20210112030000 +0000" stop="20210112033000 +0000" channel="TV1.my">
 <title lang="en">Citarasa Medika</title>
 <desc lang="en">Saksikan perkongsian hidangan untuk pesakit Gout atau Keradangan Sendi bersama Cef Fikree Aznan iaitu Sup Labu Bersama Roti Perancis, Lontong dan Punch.(n)</desc>
 <category lang="en">TV Show/Series</category>
@@ -179,7 +49,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210112033000 +0000" stop="20210112040000 +0000" channel="TV1">
+<programme start="20210112033000 +0000" stop="20210112040000 +0000" channel="TV1.my">
 <title lang="en">Boleh Tumpangkan Saya</title>
 <desc lang="en">Bersama Ebi Kornelis di Kuching Sarawak menuju ke Sri Aman.(n)</desc>
 <category lang="en">Documentary</category>
@@ -187,7 +57,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210112040000 +0000" stop="20210112050000 +0000" channel="TV1">
+<programme start="20210112040000 +0000" stop="20210112050000 +0000" channel="TV1.my">
 <title lang="en">Baby Animals in the Wild</title>
 <desc lang="en">Saksikan paparan menarik tentang pelbagai jenis anak haiwan antaranya ialah rusa, tenggiling, kuda dan harimau.(n)</desc>
 <category lang="en">Documentary</category>
@@ -195,7 +65,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210112050000 +0000" stop="20210112053000 +0000" channel="TV1">
+<programme start="20210112050000 +0000" stop="20210112053000 +0000" channel="TV1.my">
 <title lang="en">Berita Tengah Hari</title>
 <desc lang="en">Saksikan Berita Tengah Hari yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.(n)</desc>
 <category lang="en">News</category>
@@ -204,7 +74,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210112053000 +0000" stop="20210112060000 +0000" channel="TV1">
+<programme start="20210112053000 +0000" stop="20210112060000 +0000" channel="TV1.my">
 <title lang="en">Ekspresi Eko</title>
 <desc lang="en">Saksikan perjalanan Nurata Amin ke Mata Air Panas Poring dan Taman Kota Kinabalu.(n)</desc>
 <category lang="en">Documentary</category>
@@ -212,7 +82,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210112060000 +0000" stop="20210112070000 +0000" channel="TV1">
+<programme start="20210112060000 +0000" stop="20210112070000 +0000" channel="TV1.my">
 <title lang="en">Kuppa Kopi</title>
 <desc lang="en">Bersama pengacara Anding Indrawani bersama tetamu Joel Kwoh Lik Xun membicarakan topik berkaitan 'JUARA ROBOTIK DUNIA'.(n)</desc>
 <category lang="en">TV Show/Series</category>
@@ -221,7 +91,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210112070000 +0000" stop="20210112074500 +0000" channel="TV1">
+<programme start="20210112070000 +0000" stop="20210112074500 +0000" channel="TV1.my">
 <title lang="en">Nana Nini Nunu</title>
 <desc lang="en">Saksikan kisah 'Salah Siapa', lakonan Eyra Hazali, Ezlisa Loy, Erynne Erynna, Ezzrin Loy, Nasiruddin Nasir, Khatijah Tan, Yaya Ma'embong dan Ustaz Naufal.(n)</desc>
 <category lang="en">TV Show/Series</category>
@@ -230,7 +100,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210112074500 +0000" stop="20210112080000 +0000" channel="TV1">
+<programme start="20210112074500 +0000" stop="20210112080000 +0000" channel="TV1.my">
 <title lang="en">Feminin Waja</title>
 <desc lang="en">Bersama mengenali Syamim Azhari, seorang Arkitek Landskap yang mempunyai pengetahuan luas dalam bidang landskap hingga ke peringkat global.(n)</desc>
 <category lang="en">TV Show/Series</category>
@@ -239,7 +109,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210112080000 +0000" stop="20210112083000 +0000" channel="TV1">
+<programme start="20210112080000 +0000" stop="20210112083000 +0000" channel="TV1.my">
 <title lang="en">Kembara Khatulistiwa</title>
 <desc lang="en">Ketahui keistimewaan serta apa yang menarik di Rimba Kenong yang terletak di Kuala Lipis, Pahang.(n)</desc>
 <category lang="en">News</category>
@@ -248,7 +118,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210112083000 +0000" stop="20210112090000 +0000" channel="TV1">
+<programme start="20210112083000 +0000" stop="20210112090000 +0000" channel="TV1.my">
 <title lang="en">Info Medika</title>
 <desc lang="en">Ikuti perkongsian maklumat berkaitan 'Strok' Bersama Dr. Sanihah Abd Halim, Pensyarah/Pakar Perubatan Neurologi Hospital Universiti Sains Malaysia (HUSM) Kubang Kerian.(n)</desc>
 <category lang="en">TV Show/Series</category>
@@ -257,7 +127,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210112090000 +0000" stop="20210112100000 +0000" channel="TV1">
+<programme start="20210112090000 +0000" stop="20210112100000 +0000" channel="TV1.my">
 <title lang="en">Berita Wilayah</title>
 <desc lang="en">Laporan berita semasa dalam negeri.(n)</desc>
 <category lang="en">News</category>
@@ -266,7 +136,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210112100000 +0000" stop="20210112110000 +0000" channel="TV1">
+<programme start="20210112100000 +0000" stop="20210112110000 +0000" channel="TV1.my">
 <title lang="en">Fikrah</title>
 <desc lang="en">Ikuti diskusi lanjut tentang DIA KEKASIH ALLAH.(n)</desc>
 <category lang="en">Documentary</category>
@@ -275,7 +145,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210112110000 +0000" stop="20210112120000 +0000" channel="TV1">
+<programme start="20210112110000 +0000" stop="20210112120000 +0000" channel="TV1.my">
 <title lang="en">Kelas 3 Cempaka</title>
 <desc lang="en">Wah! Cikgu Zawiyah bagi hadiah untuk Ridzuan, tapi ada pula perkara penting yang perlu disampaikan.(n)</desc>
 <category lang="en">TV Show/Series</category>
@@ -284,7 +154,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210112120000 +0000" stop="20210112130000 +0000" channel="TV1">
+<programme start="20210112120000 +0000" stop="20210112130000 +0000" channel="TV1.my">
 <title lang="en">Berita Perdana</title>
 <desc lang="en">Ikuti berita yang memaparkan perkembangan terkini dan semasa termasuk berita ekonomi dan kewangan.(n)</desc>
 <category lang="en">News</category>
@@ -293,7 +163,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210112130000 +0000" stop="20210112140000 +0000" channel="TV1">
+<programme start="20210112130000 +0000" stop="20210112140000 +0000" channel="TV1.my">
 <title lang="en">(L) Bicara Inspirasi</title>
 <desc lang="en">Kupasan lanjut mengenai topik Perjuangan Tanpa Noktah bersama tetamu jemputan Datuk Hj Rohaizat Bin Haji Yon, Mantan Timbalan Ketua Pengarah Kesihatan (Perubatan) Kementerian Kesihatan Malaysia.(n)</desc>
 <category lang="en">TV Show/Series</category>
@@ -302,7 +172,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210112140000 +0000" stop="20210112143000 +0000" channel="TV1">
+<programme start="20210112140000 +0000" stop="20210112143000 +0000" channel="TV1.my">
 <title lang="en">Simfoni Alam</title>
 <desc lang="en">Keindahan Pulau yang cantik & menenangkan sepatutnya dikekalkan. Namun, sikap rakus & tidak bertanggungjawab dengan sikap suka membuang sampah secara berleluasa telah merosakkan ekosistem itu sendiri.(n)</desc>
 <category lang="en">Documentary</category>
@@ -310,7 +180,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210112143000 +0000" stop="20210112150000 +0000" channel="TV1">
+<programme start="20210112143000 +0000" stop="20210112150000 +0000" channel="TV1.my">
 <title lang="en">Cucu Wan Lebor</title>
 <desc lang="en">Pudin dan kawan-kawan mengambil upah mencuci motor untuk menambahkan tabung simpanan. Pudin telah menerima hadiah PSP dari Cikgu Khalid.(n)</desc>
 <category lang="en">TV Show/Series</category>
@@ -319,7 +189,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210112150000 +0000" stop="20210112153000 +0000" channel="TV1">
+<programme start="20210112150000 +0000" stop="20210112153000 +0000" channel="TV1.my">
 <title lang="en">Berita Dunia</title>
 <desc lang="en">Ikuti paparan berita semasa dari luar negara dalam Berita Dunia.(n)</desc>
 <category lang="en">News</category>
@@ -328,7 +198,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210112153000 +0000" stop="20210112160000 +0000" channel="TV1">
+<programme start="20210112153000 +0000" stop="20210112160000 +0000" channel="TV1.my">
 <title lang="en">ATP Uncovered</title>
 <desc lang="en">Saksikan siri 'Highlight' mingguan yang memaparkan aksi Tenis Profesional ATP Tour 2020 yang menampilkan bintang bintang ternama seperti Novak Djokovic, Roger Federer & Refeal Nadal.(n)</desc>
 <category lang="en">Documentary</category>
@@ -336,7 +206,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210112160000 +0000" stop="20210112163000 +0000" channel="TV1">
+<programme start="20210112160000 +0000" stop="20210112163000 +0000" channel="TV1.my">
 <title lang="en">Berita Tengah Malam</title>
 <desc lang="en">Saksikan Berita Nasional yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.(n)</desc>
 <category lang="en">News</category>
@@ -345,7 +215,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210112163000 +0000" stop="20210112173000 +0000" channel="TV1">
+<programme start="20210112163000 +0000" stop="20210112173000 +0000" channel="TV1.my">
 <title lang="en">Wira Remaja</title>
 <desc lang="en">Menampilkan Muhammad Zulhusnie (Sukarelawan Guru Malaysia), Nazirul Nazrin (Atlet Water Rafting), Muhammad Haziq (Pemilik Bottle Garage) & Nur Aimi Zabidi (Pemilik Leopard Gecko).(n)</desc>
 <category lang="en">Documentary</category>
@@ -353,7 +223,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210112173000 +0000" stop="20210112180000 +0000" channel="TV1">
+<programme start="20210112173000 +0000" stop="20210112180000 +0000" channel="TV1.my">
 <title lang="en">X-Sikap</title>
 <desc lang="en">Bersama Qazem Nor menemuramah Muhammad Syafiq dan kakaknya, Puan Salina serta Insp. Noor Aemy dari Bahagian Trafik PDRM tentang isu 'Tabiat Melanggar Lampu Merah'.(n)</desc>
 <category lang="en">Documentary</category>
@@ -361,7 +231,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210112180000 +0000" stop="20210112183000 +0000" channel="TV1">
+<programme start="20210112180000 +0000" stop="20210112183000 +0000" channel="TV1.my">
 <title lang="en">Semalam Di Malaysia</title>
 <desc lang="en">Bersama Zahid (Jurufoto Time Lapse) merakamkan keindahan panorama dan kehidupan kaum Bajau Laut di Pulau Maiga, Semporna Sabah.(n)</desc>
 <category lang="en">Documentary</category>
@@ -369,7 +239,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210112183000 +0000" stop="20210112190000 +0000" channel="TV1">
+<programme start="20210112183000 +0000" stop="20210112190000 +0000" channel="TV1.my">
 <title lang="en">Ekspresi Eko</title>
 <desc lang="en">Saksikan perjalanan Nurata Amin ke Mata Air Panas Poring dan Taman Kota Kinabalu.(n)</desc>
 <category lang="en">Documentary</category>
@@ -377,7 +247,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210112190000 +0000" stop="20210112193000 +0000" channel="TV1">
+<programme start="20210112190000 +0000" stop="20210112193000 +0000" channel="TV1.my">
 <title lang="en">Kembara Damai</title>
 <desc lang="en">Mengembara ke tempat-tempat menarik di sekitar Manila, Filipina antaranya Fort Santiago, Dulang Halal Restaurant Adriatica Street, Rizal Park, Divisoria Market Metro Manila.(n)</desc>
 <category lang="en">Documentary</category>
@@ -386,7 +256,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210112193000 +0000" stop="20210112203000 +0000" channel="TV1">
+<programme start="20210112193000 +0000" stop="20210112203000 +0000" channel="TV1.my">
 <title lang="en">Dari Mata Arisa</title>
 <desc lang="en">Mengisahkan persengketaan di antara dua beradik kembar yang tidak mengenal sempadan sehingga sanggup menbunuh semata-mata untuk memuaskan nafsu dendam kesumatnya.(n)</desc>
 <category lang="en">TV Show/Series</category>
@@ -395,7 +265,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210112203000 +0000" stop="20210112210000 +0000" channel="TV1">
+<programme start="20210112203000 +0000" stop="20210112210000 +0000" channel="TV1.my">
 <title lang="en">Boleh Tumpangkan Saya</title>
 <desc lang="en">Bersama Ebi Kornelis di Kuching Sarawak menuju ke Sri Aman.(n)</desc>
 <category lang="en">Documentary</category>
@@ -403,7 +273,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210112210000 +0000" stop="20210112220000 +0000" channel="TV1">
+<programme start="20210112210000 +0000" stop="20210112220000 +0000" channel="TV1.my">
 <title lang="en">Nana Nini Nunu</title>
 <desc lang="en">Saksikan kisah 'Salah Siapa', lakonan Eyra Hazali, Ezlisa Loy, Erynne Erynna, Ezzrin Loy, Nasiruddin Nasir, Khatijah Tan, Yaya Ma'embong dan Ustaz Naufal.(n)</desc>
 <category lang="en">TV Show/Series</category>
@@ -412,7 +282,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210112220000 +0000" stop="20210112230000 +0000" channel="TV1">
+<programme start="20210112220000 +0000" stop="20210112230000 +0000" channel="TV1.my">
 <title lang="en">Fikrah</title>
 <desc lang="en">Saksikan diskusi lanjut tentang 'DIA KEKASIH ALLAH' bersama moderator, Ustaz Mohamad Zarifi Mohd Daud dan tetamu undangan, Ustaz Mohd Hazman Yani Ahmad dan Ustazah Hamidah Ab Razak.(n)</desc>
 <category lang="en">Documentary</category>
@@ -421,7 +291,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210112230000 +0000" stop="20210112233000 +0000" channel="TV1">
+<programme start="20210112230000 +0000" stop="20210112233000 +0000" channel="TV1.my">
 <title lang="en">Berita Pagi</title>
 <desc lang="en">Saksikan berita pagi yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.(n)</desc>
 <category lang="en">News</category>
@@ -430,7 +300,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210112233000 +0000" stop="20210112234500 +0000" channel="TV1">
+<programme start="20210112233000 +0000" stop="20210112234500 +0000" channel="TV1.my">
 <title lang="en">Berita Pagi Sabah</title>
 <desc lang="en">Saksikan berita yang memaparkan perkembangan terkini dan isu-isu semasa dari Sabah.(n)</desc>
 <category lang="en">News</category>
@@ -439,7 +309,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210112234500 +0000" stop="20210113000000 +0000" channel="TV1">
+<programme start="20210112234500 +0000" stop="20210113000000 +0000" channel="TV1.my">
 <title lang="en">Berita Pagi Sarawak</title>
 <desc lang="en">Saksikan berita yang memaparkan perkembangan terkini dan isu-isu semasa dari Sarawak.(n)</desc>
 <category lang="en">News</category>
@@ -448,7 +318,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210113000000 +0000" stop="20210113020000 +0000" channel="TV1">
+<programme start="20210113000000 +0000" stop="20210113020000 +0000" channel="TV1.my">
 <title lang="en">(L) Selamat Pagi Malaysia</title>
 <desc lang="en">Ikuti kupasan pelbagai topik menarik dalam program bual bicara berbentuk interaktif Selamat Pagi Malaysia (Nadi Seri Pagi).(n)</desc>
 <category lang="en">News</category>
@@ -457,7 +327,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210113020000 +0000" stop="20210113023000 +0000" channel="TV1">
+<programme start="20210113020000 +0000" stop="20210113023000 +0000" channel="TV1.my">
 <title lang="en">Jiwa Kacau</title>
 <desc lang="en">Saksikan kupasan isu penyakit \"Stress dan Kemurungan\" bersama Dr. Hazli Zakaria (Pakar Psikiatri) dan Ustaz Asmawi (Pakar Motivasi).(n)</desc>
 <category lang="en">TV Show/Series</category>
@@ -466,7 +336,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210113023000 +0000" stop="20210113030000 +0000" channel="TV1">
+<programme start="20210113023000 +0000" stop="20210113030000 +0000" channel="TV1.my">
 <title lang="en">Nadi Cergas</title>
 <desc lang="en">Bersama jurulatih kecergasan, Syahmi Nashruddin, saksikan perkongsian lanjut tentang serangan jantung.(n)</desc>
 <category lang="en">TV Show/Series</category>
@@ -475,7 +345,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210113030000 +0000" stop="20210113033000 +0000" channel="TV1">
+<programme start="20210113030000 +0000" stop="20210113033000 +0000" channel="TV1.my">
 <title lang="en">Menu RM10</title>
 <desc lang="en">Saksikan Chef Azli Razali berkongsi menu 'Untuk Si Dia' iaitu Nasi Kerabu Tomyam dan Kek Baldu Merah.(n)</desc>
 <category lang="en">News</category>
@@ -484,7 +354,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210113033000 +0000" stop="20210113040000 +0000" channel="TV1">
+<programme start="20210113033000 +0000" stop="20210113040000 +0000" channel="TV1.my">
 <title lang="en">Klik-Klik</title>
 <desc lang="en">Jom! Mengembara bersama ND ke tempat yang paling indah di Ranau, Gunung Kinabalu dan Taman Kinabalu di Sabah.(n)</desc>
 <category lang="en">TV Show/Series</category>
@@ -493,7 +363,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210113040000 +0000" stop="20210113050000 +0000" channel="TV1">
+<programme start="20210113040000 +0000" stop="20210113050000 +0000" channel="TV1.my">
 <title lang="en">A Year in the Wild</title>
 <desc lang="en">Saksikan 'SPRING' yang mengisahkan tentang bagaimana binatang bersiap sedia untuk menyesuaikan diri menghadapi cabaran baru dalam peralihan cuaca di Yorkshire Utara, England.(n)</desc>
 <category lang="en">Documentary</category>
@@ -501,7 +371,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210113050000 +0000" stop="20210113053000 +0000" channel="TV1">
+<programme start="20210113050000 +0000" stop="20210113053000 +0000" channel="TV1.my">
 <title lang="en">Berita Tengah Hari</title>
 <desc lang="en">Saksikan Berita Tengah Hari yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.(n)</desc>
 <category lang="en">News</category>
@@ -510,7 +380,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210113053000 +0000" stop="20210113060000 +0000" channel="TV1">
+<programme start="20210113053000 +0000" stop="20210113060000 +0000" channel="TV1.my">
 <title lang="en">Skuad Chenta</title>
 <desc lang="en">Bersama Angah RL dan Nana Mahazan, berkongsi kisah Puan Zara yang sering berjauhan dengan suaminya, Zahid yang bekerja di kapal.(n)</desc>
 <category lang="en">TV Show/Series</category>
@@ -519,7 +389,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210113060000 +0000" stop="20210113070000 +0000" channel="TV1">
+<programme start="20210113060000 +0000" stop="20210113070000 +0000" channel="TV1.my">
 <title lang="en">My Halal</title>
 <desc lang="en">Sebuah rancangan yang menarik khas untuk anda.(n)</desc>
 <category lang="en">Documentary</category>
@@ -528,7 +398,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210113070000 +0000" stop="20210113074500 +0000" channel="TV1">
+<programme start="20210113070000 +0000" stop="20210113074500 +0000" channel="TV1.my">
 <title lang="en">Nana Nini Nunu</title>
 <desc lang="en">Nana, Nini dan Nunu telah didenda oleh Cikgu Aini kerana mengotorkan keretanya dan juga menyebabkan mereka dileteri oleh Bonda.(n)</desc>
 <category lang="en">TV Show/Series</category>
@@ -537,7 +407,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210113074500 +0000" stop="20210113080000 +0000" channel="TV1">
+<programme start="20210113074500 +0000" stop="20210113080000 +0000" channel="TV1.my">
 <title lang="en">Feminin Waja</title>
 <desc lang="en">Ikuti paparan kisah Puan Zainab Ibrahim, merupakan seorang tukang besi yang mahir dalam pembuatan alat berasaskan besi.(n)</desc>
 <category lang="en">TV Show/Series</category>
@@ -546,7 +416,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210113080000 +0000" stop="20210113083000 +0000" channel="TV1">
+<programme start="20210113080000 +0000" stop="20210113083000 +0000" channel="TV1.my">
 <title lang="en">Sinei Kitak Tok</title>
 <desc lang="en">Bersama Fadzril Hisyam berenang dan menyelam dalam ekspedisi mencari batu permata serta mempelajari proses mencanang batu sebelum dijadikan batu cincin.(n)</desc>
 <category lang="en">News</category>
@@ -555,7 +425,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210113083000 +0000" stop="20210113090000 +0000" channel="TV1">
+<programme start="20210113083000 +0000" stop="20210113090000 +0000" channel="TV1.my">
 <title lang="en">Panorama</title>
 <desc lang="en">Saksikan pengacara Rosnani Nasir mendalami kehidupan masyarakat etnik Etnik Rungus.(n)</desc>
 <category lang="en">Documentary</category>
@@ -563,7 +433,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210113090000 +0000" stop="20210113100000 +0000" channel="TV1">
+<programme start="20210113090000 +0000" stop="20210113100000 +0000" channel="TV1.my">
 <title lang="en">Berita Wilayah</title>
 <desc lang="en">Laporan berita semasa dalam negeri.(n)</desc>
 <category lang="en">News</category>
@@ -572,7 +442,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210113100000 +0000" stop="20210113103000 +0000" channel="TV1">
+<programme start="20210113100000 +0000" stop="20210113103000 +0000" channel="TV1.my">
 <title lang="en">Bakul Telur Emas</title>
 <desc lang="en">Saksikan pengacara, Nazril Nash Idrus bersama pakar perunding kewangan membantu dan berkongsi tips \"Daya Lawan Masa\".(n)</desc>
 <category lang="en">News</category>
@@ -581,7 +451,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210113103000 +0000" stop="20210113110000 +0000" channel="TV1">
+<programme start="20210113103000 +0000" stop="20210113110000 +0000" channel="TV1.my">
 <title lang="en">Pewaris Legasi</title>
 <desc lang="en">Saksikan pengusaha Anyaman Bemban Sarawak, Inta Anak Sila menurunkan ilmu dan legasi pembuatan Anyaman Bemban kepada anaknya, Manoi Anak Jarau.(n)</desc>
 <category lang="en">Documentary</category>
@@ -589,7 +459,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210113110000 +0000" stop="20210113120000 +0000" channel="TV1">
+<programme start="20210113110000 +0000" stop="20210113120000 +0000" channel="TV1.my">
 <title lang="en">Kelas 3 Cempaka</title>
 <desc lang="en">Benarkah Ridzwan sakit? Pak Ali nampak ada orang berbungkus memanjat pagar sekolah! Cikgu Zawiyah ada hubungan istimewa dengan Ridzwan?(n)</desc>
 <category lang="en">TV Show/Series</category>
@@ -598,7 +468,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210113120000 +0000" stop="20210113130000 +0000" channel="TV1">
+<programme start="20210113120000 +0000" stop="20210113130000 +0000" channel="TV1.my">
 <title lang="en">Berita Perdana</title>
 <desc lang="en">Ikuti berita yang memaparkan perkembangan terkini dan semasa termasuk berita ekonomi dan kewangan.(n)</desc>
 <category lang="en">News</category>
@@ -607,7 +477,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210113130000 +0000" stop="20210113140000 +0000" channel="TV1">
+<programme start="20210113130000 +0000" stop="20210113140000 +0000" channel="TV1.my">
 <title lang="en">Politikonomi</title>
 <desc lang="en">Sebuah rancangan yang menarik khas untuk anda.(n)</desc>
 <category lang="en">TV Show/Series</category>
@@ -616,7 +486,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210113140000 +0000" stop="20210113143000 +0000" channel="TV1">
+<programme start="20210113140000 +0000" stop="20210113143000 +0000" channel="TV1.my">
 <title lang="en">Rona Sabah</title>
 <desc lang="en">Saksikan paparan tentang Azian Azera Jingkol, seorang pelajar yang tinggal di kawasan pedalaman Sabah berjaya mendapat tawaran Pusat Latihan Petroleum Kimanis (KTC).(n)</desc>
 <category lang="en">Documentary</category>
@@ -624,7 +494,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210113143000 +0000" stop="20210113150000 +0000" channel="TV1">
+<programme start="20210113143000 +0000" stop="20210113150000 +0000" channel="TV1.my">
 <title lang="en">Cucu Wan Lebor</title>
 <desc lang="en">Terganggu dengan bunyi ayam yang bising, Pudin telah mengurung ayam di dalam mesin basuh.(n)</desc>
 <category lang="en">TV Show/Series</category>
@@ -633,7 +503,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210113150000 +0000" stop="20210113153000 +0000" channel="TV1">
+<programme start="20210113150000 +0000" stop="20210113153000 +0000" channel="TV1.my">
 <title lang="en">Berita Dunia</title>
 <desc lang="en">Ikuti paparan berita semasa dari luar negara dalam Berita Dunia.(n)</desc>
 <category lang="en">News</category>
@@ -642,7 +512,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210113153000 +0000" stop="20210113160000 +0000" channel="TV1">
+<programme start="20210113153000 +0000" stop="20210113160000 +0000" channel="TV1.my">
 <title lang="en">ATP Uncovered</title>
 <desc lang="en">Saksikan saingan sengit pemain untuk bergelar juara ATP Cup, latihan Grigor Dimitrov di luar musim saingan dan Qatar Exxon Mobil Open yang diadakan di Doha.(n)</desc>
 <category lang="en">Sports</category>
@@ -651,7 +521,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210113160000 +0000" stop="20210113163000 +0000" channel="TV1">
+<programme start="20210113160000 +0000" stop="20210113163000 +0000" channel="TV1.my">
 <title lang="en">Berita Tengah Malam</title>
 <desc lang="en">Saksikan Berita Nasional yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.(n)</desc>
 <category lang="en">News</category>
@@ -660,7 +530,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210113163000 +0000" stop="20210113170000 +0000" channel="TV1">
+<programme start="20210113163000 +0000" stop="20210113170000 +0000" channel="TV1.my">
 <title lang="en">Klik-Klik</title>
 <desc lang="en">Jom! Mengembara bersama ND ke tempat yang paling indah di Ranau, Gunung Kinabalu dan Taman Kinabalu di Sabah.(n)</desc>
 <category lang="en">Lifestyle</category>
@@ -669,7 +539,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210113170000 +0000" stop="20210113173000 +0000" channel="TV1">
+<programme start="20210113170000 +0000" stop="20210113173000 +0000" channel="TV1.my">
 <title lang="en">Bakul Telur Emas</title>
 <desc lang="en">Saksikan pengacara, Nazril Nash Idrus bersama pakar perunding kewangan membantu dan berkongsi tips \"Daya Lawan Masa\".(n)</desc>
 <category lang="en">News</category>
@@ -678,7 +548,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210113173000 +0000" stop="20210113183000 +0000" channel="TV1">
+<programme start="20210113173000 +0000" stop="20210113183000 +0000" channel="TV1.my">
 <title lang="en">Sukan Lejen - Diskusi Imbasan</title>
 <desc lang="en">Saksikan sembang santai dan analisa Perlawanan Akhir Piala Malaysia 2002, Sabah menentang Selangor.(n)</desc>
 <category lang="en">Sports</category>
@@ -687,7 +557,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210113183000 +0000" stop="20210113190000 +0000" channel="TV1">
+<programme start="20210113183000 +0000" stop="20210113190000 +0000" channel="TV1.my">
 <title lang="en">Skuad Chenta</title>
 <desc lang="en">Bersama Angah RL dan Nana Mahazan, berkongsi kisah Puan Zara yang sering berjauhan dengan suaminya, Zahid yang bekerja di kapal.(n)</desc>
 <category lang="en">TV Show/Series</category>
@@ -696,7 +566,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210113190000 +0000" stop="20210113193000 +0000" channel="TV1">
+<programme start="20210113190000 +0000" stop="20210113193000 +0000" channel="TV1.my">
 <title lang="en">Menu RM10</title>
 <desc lang="en">Saksikan Chef Azli Razali berkongsi menu 'Untuk Si Dia' iaitu Nasi Kerabu Tomyam dan Kek Baldu Merah.(n)</desc>
 <category lang="en">News</category>
@@ -705,7 +575,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210113193000 +0000" stop="20210113203000 +0000" channel="TV1">
+<programme start="20210113193000 +0000" stop="20210113203000 +0000" channel="TV1.my">
 <title lang="en">Dari Mata Arisa</title>
 <desc lang="en">Drama yang padat dengan kisah suka dan duka.(n)</desc>
 <category lang="en">TV Show/Series</category>
@@ -714,7 +584,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210113203000 +0000" stop="20210113210000 +0000" channel="TV1">
+<programme start="20210113203000 +0000" stop="20210113210000 +0000" channel="TV1.my">
 <title lang="en">Sinei Kitak Tok</title>
 <desc lang="en">Jom! Bersama Fadzril Hisyam berenang dan menyelam dalam ekspedisi mencari batu permata serta mempelajari proses mencanang batu sebelum dijadikan batu cincin.(n)</desc>
 <category lang="en">News</category>
@@ -723,7 +593,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210113210000 +0000" stop="20210113214500 +0000" channel="TV1">
+<programme start="20210113210000 +0000" stop="20210113214500 +0000" channel="TV1.my">
 <title lang="en">Nana Nini Nunu</title>
 <desc lang="en">Nana, Nini dan Nunu telah didenda oleh Cikgu Aini kerana mengotorkan keretanya dan juga menyebabkan mereka dileteri oleh Bonda.(n)</desc>
 <category lang="en">TV Show/Series</category>
@@ -732,7 +602,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210113214500 +0000" stop="20210113220000 +0000" channel="TV1">
+<programme start="20210113214500 +0000" stop="20210113220000 +0000" channel="TV1.my">
 <title lang="en">Feminin Waja</title>
 <desc lang="en">Ikuti paparan kisah Puan Zainab Ibrahim, merupakan seorang tukang besi yang mahir dalam pembuatan alat berasaskan besi.(n)</desc>
 <category lang="en">TV Show/Series</category>
@@ -741,7 +611,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210113220000 +0000" stop="20210113230000 +0000" channel="TV1">
+<programme start="20210113220000 +0000" stop="20210113230000 +0000" channel="TV1.my">
 <title lang="en">My Halal</title>
 <desc lang="en">Sebuah rancangan yang menarik khas untuk anda.(n)</desc>
 <category lang="en">Documentary</category>
@@ -750,7 +620,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210113230000 +0000" stop="20210113233000 +0000" channel="TV1">
+<programme start="20210113230000 +0000" stop="20210113233000 +0000" channel="TV1.my">
 <title lang="en">Berita Pagi</title>
 <desc lang="en">Saksikan berita pagi yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.(n)</desc>
 <category lang="en">News</category>
@@ -759,7 +629,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210113233000 +0000" stop="20210113234500 +0000" channel="TV1">
+<programme start="20210113233000 +0000" stop="20210113234500 +0000" channel="TV1.my">
 <title lang="en">Berita Pagi Sabah</title>
 <desc lang="en">Saksikan berita yang memaparkan perkembangan terkini dan isu-isu semasa dari Sabah.(n)</desc>
 <category lang="en">News</category>
@@ -768,7 +638,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210113234500 +0000" stop="20210114000000 +0000" channel="TV1">
+<programme start="20210113234500 +0000" stop="20210114000000 +0000" channel="TV1.my">
 <title lang="en">Berita Pagi Sarawak</title>
 <desc lang="en">Saksikan berita yang memaparkan perkembangan terkini dan isu-isu semasa dari Sarawak.(n)</desc>
 <category lang="en">News</category>
@@ -777,97 +647,324 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210111160000 +0000" stop="20210111170000 +0000" channel="TV2">
-<title lang="en">9.1.1</title>
-<desc lang="en">Kisah Polis, Paramedik dan Anggota Bomba yang meletakkan diri mereka dalam situasi berbahaya untuk menyelamatkan nyawa. Sementara itu, mereka juga perlu menangani masalah peribadi mereka sendiri.(n)</desc>
+<programme start="20210114000000 +0000" stop="20210114020000 +0000" channel="TV1.my">
+<title lang="en">(L) Selamat Pagi Malaysia</title>
+<desc lang="en">Ikuti kupasan pelbagai topik menarik dalam program bual bicara berbentuk interaktif Selamat Pagi Malaysia (Nadi Seri Pagi).(n)</desc>
+<category lang="en">News</category>
+<category lang="en">Others (TV Shows)</category>
+<rating system="MY">
+<value>U</value>
+</rating>
+</programme>
+<programme start="20210114020000 +0000" stop="20210114023000 +0000" channel="TV1.my">
+<title lang="en">Jiwa Kacau</title>
+<desc lang="en">Sebuah dokudrama bagi memberi gambaran tentang jenis penyakit yang berkaitan dengan psikologi and psikiatri mengikut rawatan dalam bidang kedoktoran and juga dari sudut agama.(n)</desc>
+<category lang="en">TV Show/Series</category>
+<category lang="en">Drama</category>
+<rating system="MY">
+<value>U</value>
+</rating>
+</programme>
+<programme start="20210114023000 +0000" stop="20210114030000 +0000" channel="TV1.my">
+<title lang="en">Nadi Cergas</title>
+<desc lang="en">Sebuah rancangan yang menarik khas untuk anda.(n)</desc>
+<category lang="en">TV Show/Series</category>
+<category lang="en">Drama</category>
+<rating system="MY">
+<value>U</value>
+</rating>
+</programme>
+<programme start="20210114030000 +0000" stop="20210114033000 +0000" channel="TV1.my">
+<title lang="en">Menu RM10</title>
+<desc lang="en">Majalah masakan yang menyediakan menu mudah, murah and menyihatkan sambil berkongsi idea dan kreativi bersama penonton.(n)</desc>
+<category lang="en">News</category>
+<category lang="en">Others (TV Shows)</category>
+<rating system="MY">
+<value>U</value>
+</rating>
+</programme>
+<programme start="20210114033000 +0000" stop="20210114040000 +0000" channel="TV1.my">
+<title lang="en">Klik-Klik</title>
+<desc lang="en">Rancangan padat dengan informasi untuk tontonan anda.(n)</desc>
 <category lang="en">TV Show/Series</category>
 <category lang="en">Others (TV Shows)</category>
 <rating system="MY">
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210111170000 +0000" stop="20210111173000 +0000" channel="TV2">
-<title lang="en">Ombak Cinta</title>
-<desc lang="en">Kisah Nadia dan Alia yang terpaksa menghadapi pelbagai masalah dek kerena menipu suami masing-masing dengan menghidangkan pelbagai lauk-pauk yang dibeli di restoran berhampiran.(n)</desc>
-<category lang="en">Movies</category>
+<programme start="20210114040000 +0000" stop="20210114050000 +0000" channel="TV1.my">
+<title lang="en">A Year in the Wild</title>
+<desc lang="en">Mengisahkan tentang bagaimana binatang bersiap sedia untuk menyesuaikan diri menghadapi cabaran baru dalam musim panas di Yorkshire Utara, England.(n)</desc>
+<category lang="en">Documentary</category>
+<rating system="MY">
+<value>U</value>
+</rating>
+</programme>
+<programme start="20210114050000 +0000" stop="20210114053000 +0000" channel="TV1.my">
+<title lang="en">Berita Tengah Hari</title>
+<desc lang="en">Saksikan Berita Tengah Hari yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.(n)</desc>
+<category lang="en">News</category>
+<category lang="en">Current Affairs</category>
+<rating system="MY">
+<value>U</value>
+</rating>
+</programme>
+<programme start="20210114053000 +0000" stop="20210114060000 +0000" channel="TV1.my">
+<title lang="en">Skuad Chenta</title>
+<desc lang="en">Menampilkan gandingan Nana Mahazan dan Angah Raja Lawak yang ditugaskan untuk meringankan beban ditanggung oleh individu atau pasangan terpilih.(n)</desc>
+<category lang="en">TV Show/Series</category>
 <category lang="en">Drama</category>
 <rating system="MY">
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210111173000 +0000" stop="20210111180000 +0000" channel="TV2">
-<title lang="en">Aura Femina</title>
-<desc lang="en">Majalah yang berkisar tentang dunia wanita masa kini dengan tips dan panduan untuk wanita.(n)</desc>
-<category lang="en">Movies</category>
+<programme start="20210114060000 +0000" stop="20210114070000 +0000" channel="TV1.my">
+<title lang="en">Anda Musykil</title>
+<desc lang="en">Sebuah rancangan yang menarik khas untuk anda.(n)</desc>
+<category lang="en">Documentary</category>
+<category lang="en">Religious</category>
+<rating system="MY">
+<value>U</value>
+</rating>
+</programme>
+<programme start="20210114070000 +0000" stop="20210114080000 +0000" channel="TV1.my">
+<title lang="en">Nana Nini Nunu</title>
+<desc lang="en">Mengisahkan tiga remaja perempuan Nana, Nini and Nunu yang tinggal di rumah anak yatim dibawah jagaan Bonda (Siti Wahida) dan Cikgu Aini.(n)</desc>
+<category lang="en">TV Show/Series</category>
 <category lang="en">Drama</category>
 <rating system="MY">
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210111180000 +0000" stop="20210111190000 +0000" channel="TV2">
-<title lang="en">Kitab Rindu Terindah</title>
-<desc lang="en">Drama kemasyarakatan yang memaparkan hubungan kekeluargaan, persahabatan dan percintaan.(n)</desc>
+<programme start="20210114080000 +0000" stop="20210114083000 +0000" channel="TV1.my">
+<title lang="en">Agrotek</title>
+<desc lang="en">Memaparkan pelbagai perkembangan terkini dunia Pertanian dan Industri Asas Tani Negara.(n)</desc>
+<category lang="en">Documentary</category>
+<rating system="MY">
+<value>U</value>
+</rating>
+</programme>
+<programme start="20210114083000 +0000" stop="20210114090000 +0000" channel="TV1.my">
+<title lang="en">Rona Sabah</title>
+<desc lang="en">Sebuah rancangan dokumentari dari negeri Sabah Di Bawah Bayu.(n)</desc>
+<category lang="en">Documentary</category>
+<rating system="MY">
+<value>U</value>
+</rating>
+</programme>
+<programme start="20210114090000 +0000" stop="20210114100000 +0000" channel="TV1.my">
+<title lang="en">Berita Wilayah</title>
+<desc lang="en">Laporan berita semasa dalam negeri.(n)</desc>
+<category lang="en">News</category>
+<category lang="en">Current Affairs</category>
+<rating system="MY">
+<value>U</value>
+</rating>
+</programme>
+<programme start="20210114100000 +0000" stop="20210114103000 +0000" channel="TV1.my">
+<title lang="en">Bakul Telur Emas</title>
+<desc lang="en">Topik yang dikupas dalam episod rancangan kali ini ialah pengurusan risiko.(n)</desc>
+<category lang="en">News</category>
+<category lang="en">Current Affairs</category>
+<rating system="MY">
+<value>U</value>
+</rating>
+</programme>
+<programme start="20210114103000 +0000" stop="20210114110000 +0000" channel="TV1.my">
+<title lang="en">Usrah Hikmah</title>
+<desc lang="en">Sebuah rancangan yang menarik khas untuk anda.(n)</desc>
+<category lang="en">Documentary</category>
+<category lang="en">Religious</category>
+<rating system="MY">
+<value>U</value>
+</rating>
+</programme>
+<programme start="20210114110000 +0000" stop="20210114120000 +0000" channel="TV1.my">
+<title lang="en">Sara Kirana</title>
+<desc lang="en">Kembali mendiami di rumah yang pernah didiaminya dahulu, Maisarah sering teringatkan peristiwa lama ketika dia menjadi isteri Zulfakar dahulu.(n)</desc>
+<category lang="en">TV Show/Series</category>
+<category lang="en">Drama</category>
+<rating system="MY">
+<value>U</value>
+</rating>
+</programme>
+<programme start="20210114120000 +0000" stop="20210114130000 +0000" channel="TV1.my">
+<title lang="en">Berita Perdana</title>
+<desc lang="en">Ikuti berita yang memaparkan perkembangan terkini dan semasa termasuk berita ekonomi dan kewangan.(n)</desc>
+<category lang="en">News</category>
+<category lang="en">Current Affairs</category>
+<rating system="MY">
+<value>U</value>
+</rating>
+</programme>
+<programme start="20210114130000 +0000" stop="20210114140000 +0000" channel="TV1.my">
+<title lang="en">Forum Perdana Ehwal Islam</title>
+<desc lang="en">Sebuah forum bersama tetamu jemputan membincangkan isu-isu berkaitan syariat Islam.(n)</desc>
+<category lang="en">Documentary</category>
+<category lang="en">Religious</category>
+<rating system="MY">
+<value>U</value>
+</rating>
+</programme>
+<programme start="20210114140000 +0000" stop="20210114143000 +0000" channel="TV1.my">
+<title lang="en">Logika Alam</title>
+<desc lang="en">Sebuah rancangan yang menarik khas untuk anda.(n)</desc>
+<category lang="en">Documentary</category>
+<rating system="MY">
+<value>U</value>
+</rating>
+</programme>
+<programme start="20210114143000 +0000" stop="20210114150000 +0000" channel="TV1.my">
+<title lang="en">Cucu Wan Lebor</title>
+<desc lang="en">Najwa dan Pudin mengalami perubahan daripada zaman kanak-kanak ke zaman remaja.(n)</desc>
+<category lang="en">TV Show/Series</category>
+<category lang="en">Drama</category>
+<rating system="MY">
+<value>U</value>
+</rating>
+</programme>
+<programme start="20210114150000 +0000" stop="20210114153000 +0000" channel="TV1.my">
+<title lang="en">Berita Dunia</title>
+<desc lang="en">Ikuti paparan berita semasa dari luar negara dalam Berita Dunia.(n)</desc>
+<category lang="en">News</category>
+<category lang="en">Current Affairs</category>
+<rating system="MY">
+<value>U</value>
+</rating>
+</programme>
+<programme start="20210114153000 +0000" stop="20210114160000 +0000" channel="TV1.my">
+<title lang="en">Atp Uncovered</title>
+<desc lang="en">Rancangan padat dengan informasi untuk tontonan anda.(n)</desc>
+<category lang="en">Documentary</category>
+<rating system="MY">
+<value>U</value>
+</rating>
+</programme>
+<programme start="20210114160000 +0000" stop="20210114163000 +0000" channel="TV1.my">
+<title lang="en">Berita Tengah Malam</title>
+<desc lang="en">Saksikan Berita Nasional yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.(n)</desc>
+<category lang="en">News</category>
+<category lang="en">Current Affairs</category>
+<rating system="MY">
+<value>U</value>
+</rating>
+</programme>
+<programme start="20210114163000 +0000" stop="20210114170000 +0000" channel="TV1.my">
+<title lang="en">Klik Klik</title>
+<desc lang="en">Sebuah rancangan yang menarik khas untuk anda.(n)</desc>
+<category lang="en">Documentary</category>
+<rating system="MY">
+<value>U</value>
+</rating>
+</programme>
+<programme start="20210114170000 +0000" stop="20210114173000 +0000" channel="TV1.my">
+<title lang="en">Bakul Telur Emas</title>
+<desc lang="en">Majalah membincangkan topik-topik yang berkaitan dengan pengurusan kewangan.(n)</desc>
+<category lang="en">News</category>
+<category lang="en">Current Affairs</category>
+<rating system="MY">
+<value>U</value>
+</rating>
+</programme>
+<programme start="20210114173000 +0000" stop="20210114180000 +0000" channel="TV1.my">
+<title lang="en">Panorama</title>
+<desc lang="en">Program majalah iaitu menyampaikan informasi dan berkongsi maklumat tentang isu, alam semula jadi, adat and kebudayaan, pelancongan, teknologi, warisan, sejarah dan profil.(n)</desc>
+<category lang="en">Documentary</category>
+<rating system="MY">
+<value>U</value>
+</rating>
+</programme>
+<programme start="20210114180000 +0000" stop="20210114183000 +0000" channel="TV1.my">
+<title lang="en">Cucu Wan Lebor</title>
+<desc lang="en">Pak Awi ditimpa kemalangan. Dalam pada itu, masih sempat lagi Pudin and Muzammil mendengki Cikgu Khaled yang datang melawat Pak Awi.(n)</desc>
+<category lang="en">TV Show/Series</category>
+<category lang="en">Drama</category>
+<rating system="MY">
+<value>U</value>
+</rating>
+</programme>
+<programme start="20210114183000 +0000" stop="20210114190000 +0000" channel="TV1.my">
+<title lang="en">Skuad Chenta</title>
+<desc lang="en">Menampilkan gandingan Nana Mahazan dan Angah Raja Lawak yang ditugaskan untuk meringankan beban ditanggung oleh individu atau pasangan terpilih.(n)</desc>
+<category lang="en">TV Show/Series</category>
+<category lang="en">Drama</category>
+<rating system="MY">
+<value>U</value>
+</rating>
+</programme>
+<programme start="20210114190000 +0000" stop="20210114193000 +0000" channel="TV1.my">
+<title lang="en">Menu RM10</title>
+<desc lang="en">Majalah masakan yang menyediakan menu mudah, murah and menyihatkan sambil berkongsi idea dan kreativi bersama penonton.(n)</desc>
+<category lang="en">News</category>
+<category lang="en">Others (TV Shows)</category>
+<rating system="MY">
+<value>U</value>
+</rating>
+</programme>
+<programme start="20210114193000 +0000" stop="20210114203000 +0000" channel="TV1.my">
+<title lang="en">Dari Mata Arisa</title>
+<desc lang="en">Drama yang padat dengan kisah suka dan duka.(n)</desc>
+<category lang="en">TV Show/Series</category>
+<category lang="en">Drama</category>
+<rating system="MY">
+<value>U</value>
+</rating>
+</programme>
+<programme start="20210114203000 +0000" stop="20210114210000 +0000" channel="TV1.my">
+<title lang="en">Info Medika</title>
+<desc lang="en">Ikuti perkongsian maklumat berkaitan kesihatan dan perubatan bersama pakar dan doktor perubatan dalam #InfoMedika.(n)</desc>
 <category lang="en">TV Show/Series</category>
 <category lang="en">Others (TV Shows)</category>
 <rating system="MY">
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210111190000 +0000" stop="20210111200000 +0000" channel="TV2">
-<title lang="en">Klon</title>
-<desc lang="en">Kisah seorang budak lelaki bernama Izwan yang menemui cermin sakti! Cermin itu mempunyai kuasa ajaib. Ia mampu mengklonkan sesuatu, sama ada manusia, benda ataupun haiwan.(n)</desc>
-<category lang="en">Movies</category>
+<programme start="20210114210000 +0000" stop="20210114220000 +0000" channel="TV1.my">
+<title lang="en">Nana Nini Nunu</title>
+<desc lang="en">Mengisahkan tiga remaja perempuan Nana, Nini and Nunu yang tinggal di rumah anak yatim dibawah jagaan Bonda (Siti Wahida) dan Cikgu Aini.(n)</desc>
+<category lang="en">TV Show/Series</category>
 <category lang="en">Drama</category>
 <rating system="MY">
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210111200000 +0000" stop="20210111210000 +0000" channel="TV2">
-<title lang="en">Turbulent Times</title>
-<desc lang="en">Mengisahkan seorang anak muda yang kembali ke Malaysia selepas gagal mendapatkan ijazah di Korea Selatan, namun selepas berusaha dia berjaya mengatasi pergolakan dalam perniagaan.(n)</desc>
-<category lang="en">TV Show/Series</category>
-<category lang="en">Others (TV Shows)</category>
+<programme start="20210114220000 +0000" stop="20210114230000 +0000" channel="TV1.my">
+<title lang="en">Anda Musykil</title>
+<desc lang="en">Sebuah rancangan yang menarik khas untuk anda.(n)</desc>
+<category lang="en">Documentary</category>
+<category lang="en">Religious</category>
 <rating system="MY">
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210111210000 +0000" stop="20210111220000 +0000" channel="TV2">
-<title lang="en">Nyiur Nan Setandan</title>
-<desc lang="en">Kisah Haji Deris dan hajah Sutinah yang tinggal dikampung bersama anak bongsu mereka, Udin. Haji Deris menghadapi masalah kesihatan mata yng membimbangkan.(n)</desc>
-<category lang="en">TV Show/Series</category>
-<category lang="en">Others (TV Shows)</category>
+<programme start="20210114230000 +0000" stop="20210114233000 +0000" channel="TV1.my">
+<title lang="en">Berita Pagi</title>
+<desc lang="en">Saksikan berita pagi yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.(n)</desc>
+<category lang="en">News</category>
+<category lang="en">Current Affairs</category>
 <rating system="MY">
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210111220000 +0000" stop="20210111223000 +0000" channel="TV2">
-<title lang="en">Hearty Flavours</title>
-<desc lang="en">Majalah masakan yang dihoskan oleh Dato' Chef Ismail dan Aliza Kim yang akan menjemput seorang tokoh untuk memasak hidangan istimewa bersama-sama mereka sambil berkongsi tips.(n)</desc>
-<category lang="en">Movies</category>
-<category lang="en">Drama</category>
+<programme start="20210114233000 +0000" stop="20210114234500 +0000" channel="TV1.my">
+<title lang="en">Berita Pagi Sabah</title>
+<desc lang="en">Saksikan berita yang memaparkan perkembangan terkini dan isu-isu semasa dari Sabah.(n)</desc>
+<category lang="en">News</category>
+<category lang="en">Current Affairs</category>
 <rating system="MY">
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210111223000 +0000" stop="20210111230000 +0000" channel="TV2">
-<title lang="en">Plate & Spoon</title>
-<desc lang="en">Rancangan majalah yang berkongsi tentang amalan pemakanan seimbang, petua kesihatan dan kecantikan.(n)</desc>
-<category lang="en">Movies</category>
-<category lang="en">Drama</category>
+<programme start="20210114234500 +0000" stop="20210115000000 +0000" channel="TV1.my">
+<title lang="en">Berita Pagi Sarawak</title>
+<desc lang="en">Saksikan berita yang memaparkan perkembangan terkini dan isu-isu semasa dari Sarawak.(n)</desc>
+<category lang="en">News</category>
+<category lang="en">Current Affairs</category>
 <rating system="MY">
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210111230000 +0000" stop="20210112000000 +0000" channel="TV2">
-<title lang="en">Kitab Rindu Terindah</title>
-<desc lang="en">Drama kemasyarakatan yang memaparkan hubungan kekeluargaan, persahabatan dan percintaan.(n)</desc>
-<category lang="en">TV Show/Series</category>
-<category lang="en">Others (TV Shows)</category>
-<rating system="MY">
-<value>U</value>
-</rating>
-</programme>
-<programme start="20210112000000 +0000" stop="20210112003000 +0000" channel="TV2">
+<programme start="20210112000000 +0000" stop="20210112003000 +0000" channel="TV2.my">
 <title lang="en">Dunia Dee</title>
 <desc lang="en">Bersama Elfira Loid dan Ddee yang merupakan watak animasi kanak-kanak comel dan riang.(n)</desc>
 <category lang="en">TV Show/Series</category>
@@ -876,7 +973,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210112003000 +0000" stop="20210112010000 +0000" channel="TV2">
+<programme start="20210112003000 +0000" stop="20210112010000 +0000" channel="TV2.my">
 <title lang="en">Budin Oh Budin</title>
 <desc lang="en">Animasi mengisahkan tentang seorang budak bandar bersama ibunya, seorang ibu tunggal yang berhijrah ke kampung.(n)</desc>
 <category lang="en">TV Show/Series</category>
@@ -885,7 +982,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210112010000 +0000" stop="20210112013000 +0000" channel="TV2">
+<programme start="20210112010000 +0000" stop="20210112013000 +0000" channel="TV2.my">
 <title lang="en">Biskut Lemak</title>
 <desc lang="en">Animasi tentang penduduk kampung dengan pelbagai ragam dan kisah menarik.(n)</desc>
 <category lang="en">TV Show/Series</category>
@@ -894,7 +991,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210112013000 +0000" stop="20210112020000 +0000" channel="TV2">
+<programme start="20210112013000 +0000" stop="20210112020000 +0000" channel="TV2.my">
 <title lang="en">Tulis</title>
 <desc lang="en">Animasi bersiri yang membawa cerita kanak-kanak yang dapat memberi pengajaran dengan penggunaan watak-watak alat tulis seperti pensil, pembaris, pen, stapler dan sebagainya.(n)</desc>
 <category lang="en">TV Show/Series</category>
@@ -903,7 +1000,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210112020000 +0000" stop="20210112030000 +0000" channel="TV2">
+<programme start="20210112020000 +0000" stop="20210112030000 +0000" channel="TV2.my">
 <title lang="en">Turbulent Times</title>
 <desc lang="en">Mengisahkan seorang anak muda yang kembali ke Malaysia selepas gagal mendapatkan ijazah di Korea Selatan, namun selepas berusaha dia berjaya mengatasi pergolakan dalam perniagaan.(n)</desc>
 <category lang="en">TV Show/Series</category>
@@ -912,7 +1009,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210112030000 +0000" stop="20210112040000 +0000" channel="TV2">
+<programme start="20210112030000 +0000" stop="20210112040000 +0000" channel="TV2.my">
 <title lang="en">Perplexed Love</title>
 <desc lang="en">Memaparkan kisah berkaitan dengan pelbagai isu semasa yang sering berlaku dalam masyarakat.(n)</desc>
 <category lang="en">Movies</category>
@@ -921,7 +1018,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210112040000 +0000" stop="20210112042000 +0000" channel="TV2">
+<programme start="20210112040000 +0000" stop="20210112042000 +0000" channel="TV2.my">
 <title lang="en">Berita Mandarin</title>
 <desc lang="en">Ikuti berita yang memaparkan perkembangan terkini dan semasa termasuk berita ekonomi dan kewangan.(n)</desc>
 <category lang="en">News</category>
@@ -930,7 +1027,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210112042000 +0000" stop="20210112043000 +0000" channel="TV2">
+<programme start="20210112042000 +0000" stop="20210112043000 +0000" channel="TV2.my">
 <title lang="en">Galeri Nasional Mandarin 2020</title>
 <desc lang="en">Rancangan berbentuk majalah berbahasa Mandarin yang mengupas kegiatan semasa masyarakat.(n)</desc>
 <category lang="en">News</category>
@@ -939,7 +1036,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210112043000 +0000" stop="20210112050000 +0000" channel="TV2">
+<programme start="20210112043000 +0000" stop="20210112050000 +0000" channel="TV2.my">
 <title lang="en">Updates@Noon</title>
 <desc lang="en">Brings you the latest news of national interest and trending international issues.(n)</desc>
 <category lang="en">Children</category>
@@ -948,7 +1045,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210112050000 +0000" stop="20210112060000 +0000" channel="TV2">
+<programme start="20210112050000 +0000" stop="20210112060000 +0000" channel="TV2.my">
 <title lang="en">Syahadat Cinta</title>
 <desc lang="en">Kisah Sakinah, seorang bekas banduan yang berusaha untuk mencari kehidupan sebagai peladang walaupun terpaksa berhadapan dengan pelbagai rintangan.(n)</desc>
 <category lang="en">Movies</category>
@@ -957,7 +1054,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210112060000 +0000" stop="20210112070000 +0000" channel="TV2">
+<programme start="20210112060000 +0000" stop="20210112070000 +0000" channel="TV2.my">
 <title lang="en">Selamat Malam Tan Sri</title>
 <desc lang="en">Kisah seorang wartawan bernama Hanim Hanani yang mahu membongkar rahsia Tan Sri Rahman yang dikatakan beristeri dua secara rahsia.(n)</desc>
 <category lang="en">Movies</category>
@@ -966,7 +1063,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210112070000 +0000" stop="20210112073000 +0000" channel="TV2">
+<programme start="20210112070000 +0000" stop="20210112073000 +0000" channel="TV2.my">
 <title lang="en">Thanga Kaasu Ilavasam</title>
 <desc lang="en">Kisah kegigihan Kamala, seorang ibu yang mempunyai 3 anak lelaki yang tidak bertanggungjawab dan suka berfoya-foya.(n)</desc>
 <category lang="en">TV Show/Series</category>
@@ -975,7 +1072,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210112073000 +0000" stop="20210112080000 +0000" channel="TV2">
+<programme start="20210112073000 +0000" stop="20210112080000 +0000" channel="TV2.my">
 <title lang="en">Nee Yaar</title>
 <desc lang="en">Drama kemasyarakatan yang memaparkan hubungan kekeluargaan, persahabatan dan percintaan.(n)</desc>
 <category lang="en">Movies</category>
@@ -984,7 +1081,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210112080000 +0000" stop="20210112083000 +0000" channel="TV2">
+<programme start="20210112080000 +0000" stop="20210112083000 +0000" channel="TV2.my">
 <title lang="en">Vastu Tarum Palangal</title>
 <desc lang="en">Majalah seni bina bangunan mengikut tradisi kaum India berdasarkan penjajaran arah.(n)</desc>
 <category lang="en">Movies</category>
@@ -993,7 +1090,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210112083000 +0000" stop="20210112090000 +0000" channel="TV2">
+<programme start="20210112083000 +0000" stop="20210112090000 +0000" channel="TV2.my">
 <title lang="en">Vetri Unggal Vaasalil</title>
 <desc lang="en">Rancangan majalah yang memberi inspirasi khasnya buat kaum wanita untuk lebih maju dan berjaya dalam pelbagai aspek kehidupan.(n)</desc>
 <category lang="en">TV Show/Series</category>
@@ -1002,7 +1099,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210112090000 +0000" stop="20210112100000 +0000" channel="TV2">
+<programme start="20210112090000 +0000" stop="20210112100000 +0000" channel="TV2.my">
 <title lang="en">Moonlight Saigon</title>
 <desc lang="en">Kisah percintaan diantara seorang lelaki warga Malaysia yang bekerja sebagai perunding makanan dan minuman bagi Syarikat OFG dengan seorang wanita Vietnam yang bekerja sebagai pelayan restoran.(n)</desc>
 <category lang="en">Movies</category>
@@ -1011,7 +1108,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210112100000 +0000" stop="20210112110000 +0000" channel="TV2">
+<programme start="20210112100000 +0000" stop="20210112110000 +0000" channel="TV2.my">
 <title lang="en">Relationship Its Complicated</title>
 <desc lang="en">Kisah seorang wanita yang secara tidak sengaja bertemu dan jatuh cinta dengan seorang pelakon lelaki popular sedangkan pada awalnya mereka berdua merupakan seteru.(n)</desc>
 <category lang="en">TV Show/Series</category>
@@ -1020,7 +1117,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210112110000 +0000" stop="20210112113000 +0000" channel="TV2">
+<programme start="20210112110000 +0000" stop="20210112113000 +0000" channel="TV2.my">
 <title lang="en">Radio Gaga</title>
 <desc lang="en">Norlela gemar mendengar lagu menggunakan pemain MP3 kepunyaannya. Suatu hari pemain MP3 tersebut terkena Krim Anti Virus ciptaan Izwan, seorang saintis di Syarikat ayahnya.(n)</desc>
 <category lang="en">News</category>
@@ -1029,7 +1126,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210112113000 +0000" stop="20210112120000 +0000" channel="TV2">
+<programme start="20210112113000 +0000" stop="20210112120000 +0000" channel="TV2.my">
 <title lang="en">Berita Tamil</title>
 <desc lang="en">Ikuti berita yang memaparkan perkembangan terkini dan semasa termasuk berita ekonomi dan kewangan.(n)</desc>
 <category lang="en">News</category>
@@ -1038,7 +1135,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210112120000 +0000" stop="20210112123000 +0000" channel="TV2">
+<programme start="20210112120000 +0000" stop="20210112123000 +0000" channel="TV2.my">
 <title lang="en">Berita Mandarin</title>
 <desc lang="en">Ikuti berita yang memaparkan perkembangan terkini dan semasa termasuk berita ekonomi dan kewangan.(n)</desc>
 <category lang="en">News</category>
@@ -1047,7 +1144,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210112123000 +0000" stop="20210112133000 +0000" channel="TV2">
+<programme start="20210112123000 +0000" stop="20210112133000 +0000" channel="TV2.my">
 <title lang="en">Lelaki Itu Untukku</title>
 <desc lang="en">Drama kekeluargaan yang mengisahkan tentang hubungan dingin seorang anak gadis terhadap bapanya.(n)</desc>
 <category lang="en">TV Show/Series</category>
@@ -1056,7 +1153,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210112133000 +0000" stop="20210112153000 +0000" channel="TV2">
+<programme start="20210112133000 +0000" stop="20210112153000 +0000" channel="TV2.my">
 <title lang="en">Demi Mira</title>
 <desc lang="en">Kisah dugaan yang dihadapi oleh seorang isteri apabila suaminya didapati bersalah terlibat dengan kegiatan jenayah. Dia tabah dan sabar ketika sisuami menjalani hukuman.(n)</desc>
 <category lang="en">TV Show/Series</category>
@@ -1065,7 +1162,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210112153000 +0000" stop="20210112160000 +0000" channel="TV2">
+<programme start="20210112153000 +0000" stop="20210112160000 +0000" channel="TV2.my">
 <title lang="en">Plate & Spoon</title>
 <desc lang="en">Rancangan majalah yang berkongsi tentang amalan pemakanan seimbang, petua kesihatan dan kecantikan.(n)</desc>
 <category lang="en">Movies</category>
@@ -1074,7 +1171,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210112160000 +0000" stop="20210112170000 +0000" channel="TV2">
+<programme start="20210112160000 +0000" stop="20210112170000 +0000" channel="TV2.my">
 <title lang="en">9.1.1</title>
 <desc lang="en">Kisah Polis, Paramedik dan Anggota Bomba yang meletakkan diri mereka dalam situasi berbahaya untuk menyelamatkan nyawa. Sementara itu, mereka juga perlu menangani masalah peribadi mereka sendiri.(n)</desc>
 <category lang="en">TV Show/Series</category>
@@ -1083,7 +1180,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210112170000 +0000" stop="20210112173000 +0000" channel="TV2">
+<programme start="20210112170000 +0000" stop="20210112173000 +0000" channel="TV2.my">
 <title lang="en">Ombak Cinta</title>
 <desc lang="en">Kisah Nadia dan Alia yang terpaksa menghadapi pelbagai masalah dek kerena menipu suami masing-masing dengan menghidangkan pelbagai lauk-pauk yang dibeli di restoran berhampiran.(n)</desc>
 <category lang="en">Movies</category>
@@ -1092,7 +1189,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210112173000 +0000" stop="20210112180000 +0000" channel="TV2">
+<programme start="20210112173000 +0000" stop="20210112180000 +0000" channel="TV2.my">
 <title lang="en">Hearty Flavours</title>
 <desc lang="en">Majalah masakan yang dihoskan oleh Dato' Chef Ismail dan Aliza Kim yang akan menjemput seorang tokoh untuk memasak hidangan istimewa bersama-sama mereka sambil berkongsi tips.(n)</desc>
 <category lang="en">Movies</category>
@@ -1101,7 +1198,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210112180000 +0000" stop="20210112190000 +0000" channel="TV2">
+<programme start="20210112180000 +0000" stop="20210112190000 +0000" channel="TV2.my">
 <title lang="en">Kitab Rindu Terindah</title>
 <desc lang="en">Drama kemasyarakatan yang memaparkan hubungan kekeluargaan, persahabatan dan percintaan.(n)</desc>
 <category lang="en">TV Show/Series</category>
@@ -1110,7 +1207,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210112190000 +0000" stop="20210112200000 +0000" channel="TV2">
+<programme start="20210112190000 +0000" stop="20210112200000 +0000" channel="TV2.my">
 <title lang="en">Klon</title>
 <desc lang="en">Kisah seorang budak lelaki bernama Izwan yang menemui cermin sakti! Cermin itu mempunyai kuasa ajaib. Ia mampu mengklonkan sesuatu, sama ada manusia, benda ataupun haiwan.(n)</desc>
 <category lang="en">Movies</category>
@@ -1119,7 +1216,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210112200000 +0000" stop="20210112210000 +0000" channel="TV2">
+<programme start="20210112200000 +0000" stop="20210112210000 +0000" channel="TV2.my">
 <title lang="en">Turbulent Times</title>
 <desc lang="en">Mengisahkan seorang anak muda yang kembali ke Malaysia selepas gagal mendapatkan ijazah di Korea Selatan, namun selepas berusaha dia berjaya mengatasi pergolakan dalam perniagaan.(n)</desc>
 <category lang="en">TV Show/Series</category>
@@ -1128,7 +1225,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210112210000 +0000" stop="20210112220000 +0000" channel="TV2">
+<programme start="20210112210000 +0000" stop="20210112220000 +0000" channel="TV2.my">
 <title lang="en">Nyiur Nan Setandan</title>
 <desc lang="en">Kisah Haji Deris dan hajah Sutinah yang tinggal dikampung bersama anak bongsu mereka, Udin. Haji Deris menghadapi masalah kesihatan mata yng membimbangkan.(n)</desc>
 <category lang="en">TV Show/Series</category>
@@ -1137,7 +1234,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210112220000 +0000" stop="20210112223000 +0000" channel="TV2">
+<programme start="20210112220000 +0000" stop="20210112223000 +0000" channel="TV2.my">
 <title lang="en">Act Fast</title>
 <desc lang="en">Rancangan majalah yang memberi panduan bagaimana dan apakah tindakan awal yang boleh diambil sekiranya menghadapi perkara diluar jangkaan seperti serangan penyakit asma, mengalami kecederaan.(n)</desc>
 <category lang="en">Movies</category>
@@ -1146,7 +1243,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210112223000 +0000" stop="20210112230000 +0000" channel="TV2">
+<programme start="20210112223000 +0000" stop="20210112230000 +0000" channel="TV2.my">
 <title lang="en">From Spain to Morocco</title>
 <desc lang="en">Sebuah travelog pengembaraan Kamal Adli ke dua negara bersebelahan namun berbeza budaya dan juga benua.(n)</desc>
 <category lang="en">Movies</category>
@@ -1155,7 +1252,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210112230000 +0000" stop="20210113000000 +0000" channel="TV2">
+<programme start="20210112230000 +0000" stop="20210113000000 +0000" channel="TV2.my">
 <title lang="en">Kitab Rindu Terindah</title>
 <desc lang="en">Drama kemasyarakatan yang memaparkan hubungan kekeluargaan, persahabatan dan percintaan.(n)</desc>
 <category lang="en">TV Show/Series</category>
@@ -1164,7 +1261,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210113000000 +0000" stop="20210113003000 +0000" channel="TV2">
+<programme start="20210113000000 +0000" stop="20210113003000 +0000" channel="TV2.my">
 <title lang="en">Dunia Dee</title>
 <desc lang="en">Bersama Elfira Loid dan Ddee yang merupakan watak animasi kanak-kanak comel dan riang.(n)</desc>
 <category lang="en">TV Show/Series</category>
@@ -1173,7 +1270,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210113003000 +0000" stop="20210113010000 +0000" channel="TV2">
+<programme start="20210113003000 +0000" stop="20210113010000 +0000" channel="TV2.my">
 <title lang="en">Budin Oh Budin</title>
 <desc lang="en">Rancangan menarik untuk tontonan semua di TV2.(n)</desc>
 <category lang="en">TV Show/Series</category>
@@ -1182,7 +1279,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210113010000 +0000" stop="20210113013000 +0000" channel="TV2">
+<programme start="20210113010000 +0000" stop="20210113013000 +0000" channel="TV2.my">
 <title lang="en">Biskut Lemak</title>
 <desc lang="en">Animasi tentang penduduk kampung dengan pelbagai ragam dan kisah menarik.(n)</desc>
 <category lang="en">TV Show/Series</category>
@@ -1191,7 +1288,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210113013000 +0000" stop="20210113020000 +0000" channel="TV2">
+<programme start="20210113013000 +0000" stop="20210113020000 +0000" channel="TV2.my">
 <title lang="en">Tulis</title>
 <desc lang="en">Animasi bersiri yang membawa cerita kanak-kanak yang dapat memberi pengajaran dengan penggunaan watak-watak alat tulis seperti pensil, pembaris, pen, stapler dan sebagainya.(n)</desc>
 <category lang="en">TV Show/Series</category>
@@ -1200,7 +1297,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210113020000 +0000" stop="20210113023000 +0000" channel="TV2">
+<programme start="20210113020000 +0000" stop="20210113023000 +0000" channel="TV2.my">
 <title lang="en">Code of Health</title>
 <desc lang="en">Majalah kesihatan yang memberi informasi dari aspek pemakanan dan senaman kearah kehidupan yang lebih sihat.(n)</desc>
 <category lang="en">TV Show/Series</category>
@@ -1209,7 +1306,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210113023000 +0000" stop="20210113030000 +0000" channel="TV2">
+<programme start="20210113023000 +0000" stop="20210113030000 +0000" channel="TV2.my">
 <title lang="en">Rise & Shine</title>
 <desc lang="en">Rancangan majalah yang menyingkap rahsia bagi para wanita meningkatkan pengetahuan dalam bidang kerjaya.(n)</desc>
 <category lang="en">TV Show/Series</category>
@@ -1218,7 +1315,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210113030000 +0000" stop="20210113033000 +0000" channel="TV2">
+<programme start="20210113030000 +0000" stop="20210113033000 +0000" channel="TV2.my">
 <title lang="en">Sinaran Rohani</title>
 <desc lang="en">Rancangan terbitan Jakim berbahasa Mandarin berkonsepkan keagamaan dan kerohanian yang memfokuskan aktiviti kehidupan saudara baru.(n)</desc>
 <category lang="en">News</category>
@@ -1227,7 +1324,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210113033000 +0000" stop="20210113040000 +0000" channel="TV2">
+<programme start="20210113033000 +0000" stop="20210113040000 +0000" channel="TV2.my">
 <title lang="en">Keep Calm & Stay Healthy</title>
 <desc lang="en">Majalah kesihatan yang memberi informasi pelbagai aspek kesihatan merangkumi cara penjagaan, pemakanan dan senaman.(n)</desc>
 <category lang="en">News</category>
@@ -1236,7 +1333,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210113040000 +0000" stop="20210113042000 +0000" channel="TV2">
+<programme start="20210113040000 +0000" stop="20210113042000 +0000" channel="TV2.my">
 <title lang="en">Berita Mandarin</title>
 <desc lang="en">Ikuti berita yang memaparkan perkembangan terkini dan semasa termasuk berita ekonomi dan kewangan.(n)</desc>
 <category lang="en">News</category>
@@ -1245,7 +1342,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210113042000 +0000" stop="20210113043000 +0000" channel="TV2">
+<programme start="20210113042000 +0000" stop="20210113043000 +0000" channel="TV2.my">
 <title lang="en">Galeri Nasional Mandarin 2020</title>
 <desc lang="en">Rancangan berbentuk majalah berbahasa Mandarin yang mengupas kegiatan semasa masyarakat.(n)</desc>
 <category lang="en">News</category>
@@ -1254,7 +1351,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210113043000 +0000" stop="20210113050000 +0000" channel="TV2">
+<programme start="20210113043000 +0000" stop="20210113050000 +0000" channel="TV2.my">
 <title lang="en">Updates@Noon</title>
 <desc lang="en">Brings you the latest news of national interest and trending international issues.(n)</desc>
 <category lang="en">Children</category>
@@ -1263,7 +1360,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210113050000 +0000" stop="20210113060000 +0000" channel="TV2">
+<programme start="20210113050000 +0000" stop="20210113060000 +0000" channel="TV2.my">
 <title lang="en">Syahadat Cinta</title>
 <desc lang="en">Kisah Sakinah, seorang bekas banduan yang berusaha untuk mencari kehidupan sebagai peladang walaupun terpaksa berhadapan dengan pelbagai rintangan.(n)</desc>
 <category lang="en">Movies</category>
@@ -1272,7 +1369,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210113060000 +0000" stop="20210113070000 +0000" channel="TV2">
+<programme start="20210113060000 +0000" stop="20210113070000 +0000" channel="TV2.my">
 <title lang="en">Selamat Malam Tan Sri</title>
 <desc lang="en">Kisah seorang wartawan bernama Hanim Hanani yang mahu membongkar rahsia Tan Sri Rahman yang dikatakan beristeri dua secara rahsia.(n)</desc>
 <category lang="en">Movies</category>
@@ -1281,7 +1378,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210113070000 +0000" stop="20210113073000 +0000" channel="TV2">
+<programme start="20210113070000 +0000" stop="20210113073000 +0000" channel="TV2.my">
 <title lang="en">Thanga Kaasu Ilavasam</title>
 <desc lang="en">Kisah kegigihan Kamala, seorang ibu yang mempunyai 3 anak lelaki yang tidak bertanggungjawab dan suka berfoya-foya.(n)</desc>
 <category lang="en">TV Show/Series</category>
@@ -1290,7 +1387,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210113073000 +0000" stop="20210113080000 +0000" channel="TV2">
+<programme start="20210113073000 +0000" stop="20210113080000 +0000" channel="TV2.my">
 <title lang="en">Nee Yaar</title>
 <desc lang="en">Drama kemasyarakatan yang memaparkan hubungan kekeluargaan, persahabatan dan percintaan.(n)</desc>
 <category lang="en">Movies</category>
@@ -1299,7 +1396,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210113080000 +0000" stop="20210113083000 +0000" channel="TV2">
+<programme start="20210113080000 +0000" stop="20210113083000 +0000" channel="TV2.my">
 <title lang="en">Suvaiyana Suttrula</title>
 <desc lang="en">Majalah travelog yang memaparkan keindahan tempat-tempat pelancongan di India dan Malaysia.(n)</desc>
 <category lang="en">Movies</category>
@@ -1308,7 +1405,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210113083000 +0000" stop="20210113090000 +0000" channel="TV2">
+<programme start="20210113083000 +0000" stop="20210113090000 +0000" channel="TV2.my">
 <title lang="en">Tajdid Ummah</title>
 <desc lang="en">Rancangan terbitan Jakim berbahasa Tamil berkonsepkan keagamaan dan kerohanian yang memfokuskan aktiviti kehidupan saudara baru.(n)</desc>
 <category lang="en">News</category>
@@ -1317,7 +1414,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210113090000 +0000" stop="20210113100000 +0000" channel="TV2">
+<programme start="20210113090000 +0000" stop="20210113100000 +0000" channel="TV2.my">
 <title lang="en">Moonlight Saigon</title>
 <desc lang="en">Kisah percintaan diantara seorang lelaki warga Malaysia yang bekerja sebagai perunding makanan dan minuman bagi Syarikat OFG dengan seorang wanita Vietnam yang bekerja sebagai pelayan restoran.(n)</desc>
 <category lang="en">Movies</category>
@@ -1326,7 +1423,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210113100000 +0000" stop="20210113110000 +0000" channel="TV2">
+<programme start="20210113100000 +0000" stop="20210113110000 +0000" channel="TV2.my">
 <title lang="en">Relationship Its Complicated</title>
 <desc lang="en">Kisah seorang wanita yang secara tidak sengaja bertemu dan jatuh cinta dengan seorang pelakon lelaki popular sedangkan pada awalnya mereka berdua merupakan seteru.(n)</desc>
 <category lang="en">TV Show/Series</category>
@@ -1335,7 +1432,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210113110000 +0000" stop="20210113113000 +0000" channel="TV2">
+<programme start="20210113110000 +0000" stop="20210113113000 +0000" channel="TV2.my">
 <title lang="en">Radio Gaga</title>
 <desc lang="en">Norlela gemar mendengar lagu menggunakan pemain MP3 kepunyaannya. Suatu hari pemain MP3 tersebut terkena Krim Anti Virus ciptaan Izwan, seorang saintis di Syarikat ayahnya.(n)</desc>
 <category lang="en">News</category>
@@ -1344,7 +1441,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210113113000 +0000" stop="20210113120000 +0000" channel="TV2">
+<programme start="20210113113000 +0000" stop="20210113120000 +0000" channel="TV2.my">
 <title lang="en">Berita Tamil</title>
 <desc lang="en">Ikuti berita yang memaparkan perkembangan terkini dan semasa termasuk berita ekonomi dan kewangan.(n)</desc>
 <category lang="en">News</category>
@@ -1353,7 +1450,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210113120000 +0000" stop="20210113123000 +0000" channel="TV2">
+<programme start="20210113120000 +0000" stop="20210113123000 +0000" channel="TV2.my">
 <title lang="en">Berita Mandarin</title>
 <desc lang="en">Ikuti berita yang memaparkan perkembangan terkini dan semasa termasuk berita ekonomi dan kewangan.(n)</desc>
 <category lang="en">News</category>
@@ -1362,7 +1459,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210113123000 +0000" stop="20210113133000 +0000" channel="TV2">
+<programme start="20210113123000 +0000" stop="20210113133000 +0000" channel="TV2.my">
 <title lang="en">Lelaki Itu Untukku</title>
 <desc lang="en">Drama kekeluargaan yang mengisahkan tentang hubungan dingin seorang anak gadis terhadap bapanya.(n)</desc>
 <category lang="en">TV Show/Series</category>
@@ -1371,7 +1468,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210113133000 +0000" stop="20210113163000 +0000" channel="TV2">
+<programme start="20210113133000 +0000" stop="20210113163000 +0000" channel="TV2.my">
 <title lang="en">Sanam Teri Kasam</title>
 <desc lang="en">Ketika ayah Saraswati menghalaunya keluar dari rumah, Inder tetap berdiri teguh bersamanya melawan segala kemungkinan.(n)</desc>
 <category lang="en">TV Show/Series</category>
@@ -1380,7 +1477,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210113163000 +0000" stop="20210113173000 +0000" channel="TV2">
+<programme start="20210113163000 +0000" stop="20210113173000 +0000" channel="TV2.my">
 <title lang="en">Metro Skuad</title>
 <desc lang="en">Drama kepolisan yang memaparkan Unit Metro Skuad membanteras kes-kes jenayah yang sering berlaku seperti penculikan, penyeludupan, pembunuhan, rompakan, penipuan dadah dan sebagainya.(n)</desc>
 <category lang="en">Movies</category>
@@ -1389,7 +1486,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210113173000 +0000" stop="20210113180000 +0000" channel="TV2">
+<programme start="20210113173000 +0000" stop="20210113180000 +0000" channel="TV2.my">
 <title lang="en">Act Fast</title>
 <desc lang="en">Rancangan majalah yang memberi panduan bagaimana dan apakah tindakan awal yang boleh diambil sekiranya menghadapi perkara diluar jangkaan seperti serangan penyakit asma, mengalami kecederaan.(n)</desc>
 <category lang="en">Movies</category>
@@ -1398,7 +1495,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210113180000 +0000" stop="20210113190000 +0000" channel="TV2">
+<programme start="20210113180000 +0000" stop="20210113190000 +0000" channel="TV2.my">
 <title lang="en">Kitab Rindu Terindah</title>
 <desc lang="en">Drama kemasyarakatan yang memaparkan hubungan kekeluargaan, persahabatan dan percintaan.(n)</desc>
 <category lang="en">TV Show/Series</category>
@@ -1407,7 +1504,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210113190000 +0000" stop="20210113200000 +0000" channel="TV2">
+<programme start="20210113190000 +0000" stop="20210113200000 +0000" channel="TV2.my">
 <title lang="en">Klon</title>
 <desc lang="en">Kisah seorang budak lelaki bernama Izwan yang menemui cermin sakti! Cermin itu mempunyai kuasa ajaib. Ia mampu mengklonkan sesuatu, sama ada manusia, benda ataupun haiwan.(n)</desc>
 <category lang="en">Movies</category>
@@ -1416,7 +1513,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210113200000 +0000" stop="20210113210000 +0000" channel="TV2">
+<programme start="20210113200000 +0000" stop="20210113210000 +0000" channel="TV2.my">
 <title lang="en">Perplexed Love</title>
 <desc lang="en">Memaparkan kisah berkaitan dengan pelbagai isu semasa yang sering berlaku dalam masyarakat.(n)</desc>
 <category lang="en">Movies</category>
@@ -1425,7 +1522,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210113210000 +0000" stop="20210113220000 +0000" channel="TV2">
+<programme start="20210113210000 +0000" stop="20210113220000 +0000" channel="TV2.my">
 <title lang="en">Nyiur Nan Setandan</title>
 <desc lang="en">Kisah Haji Deris dan hajah Sutinah yang tinggal dikampung bersama anak bongsu mereka, Udin. Haji Deris menghadapi masalah kesihatan mata yng membimbangkan.(n)</desc>
 <category lang="en">TV Show/Series</category>
@@ -1434,7 +1531,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210113220000 +0000" stop="20210113223000 +0000" channel="TV2">
+<programme start="20210113220000 +0000" stop="20210113223000 +0000" channel="TV2.my">
 <title lang="en">Live it up</title>
 <desc lang="en">Majalah Motivasi khusus bagi golongan remaja. Seorang personaliti atau ikon akan diperkenalkan dalam setiap episod untuk menjadi inspirasi para remaja.(n)</desc>
 <category lang="en">Movies</category>
@@ -1443,7 +1540,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210113223000 +0000" stop="20210113230000 +0000" channel="TV2">
+<programme start="20210113223000 +0000" stop="20210113230000 +0000" channel="TV2.my">
 <title lang="en">Miss Stylo</title>
 <desc lang="en">Sebuah majalah yang memberi pendedahan kepada penonton khususnya wanita dalam menggayakan fesyen yang sesuai untuk sesuatu majlis atau aktiviti bersama pakar perunding imej.(n)</desc>
 <category lang="en">Movies</category>
@@ -1452,7 +1549,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210113230000 +0000" stop="20210114000000 +0000" channel="TV2">
+<programme start="20210113230000 +0000" stop="20210114000000 +0000" channel="TV2.my">
 <title lang="en">Cinta Agra</title>
 <desc lang="en">Drama kemasyarakatan yang memaparkan hubungan kekeluargaan, persahabatan dan percintaan.(n)</desc>
 <category lang="en">TV Show/Series</category>
@@ -1461,79 +1558,259 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210111160000 +0000" stop="20210111163000 +0000" channel="TV3">
-<title lang="en">(L) Nightline</title>
-<desc lang="en">News in English including business, financial and sports.(n)</desc>
+<programme start="20210114000000 +0000" stop="20210114003000 +0000" channel="TV2.my">
+<title lang="en">Dunia Dee</title>
+<desc lang="en">Bersama Elfira Loid dan Ddee yang merupakan watak animasi kanak-kanak comel dan riang.(n)</desc>
+<category lang="en">TV Show/Series</category>
+<category lang="en">Others (TV Shows)</category>
+<rating system="MY">
+<value>U</value>
+</rating>
+</programme>
+<programme start="20210114003000 +0000" stop="20210114010000 +0000" channel="TV2.my">
+<title lang="en">Budin Oh Budin</title>
+<desc lang="en">Animasi mengisahkan tentang seorang budak bandar bersama ibunya, seorang ibu tunggal yang berhijrah ke kampung.(n)</desc>
+<category lang="en">TV Show/Series</category>
+<category lang="en">Others (TV Shows)</category>
+<rating system="MY">
+<value>U</value>
+</rating>
+</programme>
+<programme start="20210114010000 +0000" stop="20210114013000 +0000" channel="TV2.my">
+<title lang="en">Biskut Lemak</title>
+<desc lang="en">Animasi tentang penduduk kampung dengan pelbagai ragam dan kisah menarik.(n)</desc>
+<category lang="en">TV Show/Series</category>
+<category lang="en">Others (TV Shows)</category>
+<rating system="MY">
+<value>U</value>
+</rating>
+</programme>
+<programme start="20210114013000 +0000" stop="20210114020000 +0000" channel="TV2.my">
+<title lang="en">Tulis</title>
+<desc lang="en">Animasi bersiri yang membawa cerita kanak-kanak yang dapat memberi pengajaran dengan penggunaan watak-watak alat tulis seperti pensil, pembaris, pen, stapler dan sebagainya.(n)</desc>
+<category lang="en">TV Show/Series</category>
+<category lang="en">Others (TV Shows)</category>
+<rating system="MY">
+<value>U</value>
+</rating>
+</programme>
+<programme start="20210114020000 +0000" stop="20210114040000 +0000" channel="TV2.my">
+<title lang="en">The Cycle of Love</title>
+<desc lang="en">Kisah sekumpulan remaja yang berusaha untuk mengejar cita-cita mereka sebagai pemuzik, pereka imej dan penari.(n)</desc>
+<category lang="en">TV Show/Series</category>
+<category lang="en">Others (TV Shows)</category>
+<rating system="MY">
+<value>U</value>
+</rating>
+</programme>
+<programme start="20210114040000 +0000" stop="20210114042000 +0000" channel="TV2.my">
+<title lang="en">Berita Mandarin</title>
+<desc lang="en">Ikuti berita yang memaparkan perkembangan terkini dan semasa termasuk berita ekonomi dan kewangan.(n)</desc>
 <category lang="en">News</category>
-<category lang="en">Current Affairs</category>
+<category lang="en">Business</category>
 <rating system="MY">
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210111163000 +0000" stop="20210111170000 +0000" channel="TV3">
-<title lang="en">WOWSHOP</title>
-<desc lang="en">Rangkaian membeli-belah dari rumah yang inovatif, yang boleh diakses di platform televisyen, dalam talian dan aplikasi mudah alih, pengalaman visual, interaktif dan menyeluruh yang unik.(n)</desc>
+<programme start="20210114042000 +0000" stop="20210114043000 +0000" channel="TV2.my">
+<title lang="en">Galeri Nasional Mandarin 2020</title>
+<desc lang="en">Rancangan berbentuk majalah berbahasa Mandarin yang mengupas kegiatan semasa masyarakat.(n)</desc>
+<category lang="en">News</category>
+<category lang="en">Others (TV Shows)</category>
+<rating system="MY">
+<value>U</value>
+</rating>
+</programme>
+<programme start="20210114043000 +0000" stop="20210114050000 +0000" channel="TV2.my">
+<title lang="en">Updates@Noon</title>
+<desc lang="en">Brings you the latest news of national interest and trending international issues.(n)</desc>
+<category lang="en">Children</category>
+<category lang="en">Animation</category>
+<rating system="MY">
+<value>U</value>
+</rating>
+</programme>
+<programme start="20210114050000 +0000" stop="20210114060000 +0000" channel="TV2.my">
+<title lang="en">Syahadat Cinta</title>
+<desc lang="en">Kisah Sakinah, seorang bekas banduan yang berusaha untuk mencari kehidupan sebagai peladang walaupun terpaksa berhadapan dengan pelbagai rintangan.(n)</desc>
+<category lang="en">Movies</category>
+<category lang="en">Drama</category>
+<rating system="MY">
+<value>U</value>
+</rating>
+</programme>
+<programme start="20210114060000 +0000" stop="20210114070000 +0000" channel="TV2.my">
+<title lang="en">Selamat Malam Tan Sri</title>
+<desc lang="en">Kisah seorang wartawan bernama Hanim Hanani yang mahu membongkar rahsia Tan Sri Rahman yang dikatakan beristeri dua secara rahsia.(n)</desc>
+<category lang="en">Movies</category>
+<category lang="en">Drama</category>
+<rating system="MY">
+<value>U</value>
+</rating>
+</programme>
+<programme start="20210114070000 +0000" stop="20210114090000 +0000" channel="TV2.my">
+<title lang="en">Karuppu</title>
+<desc lang="en">Kisah cabaran dan dugaan yang dihadapi oleh Karuppu, seorang lelaki yang telah mengalami kecacatan penglihatan sejak kecil akibat kemalangan.(n)</desc>
+<category lang="en">Movies</category>
+<category lang="en">Drama</category>
+<rating system="MY">
+<value>U</value>
+</rating>
+</programme>
+<programme start="20210114090000 +0000" stop="20210114100000 +0000" channel="TV2.my">
+<title lang="en">Moonlight Saigon</title>
+<desc lang="en">Kisah percintaan diantara seorang lelaki warga Malaysia yang bekerja sebagai perunding makanan dan minuman bagi Syarikat OFG dengan seorang wanita Vietnam yang bekerja sebagai pelayan restoran.(n)</desc>
+<category lang="en">Movies</category>
+<category lang="en">Drama</category>
+<rating system="MY">
+<value>U</value>
+</rating>
+</programme>
+<programme start="20210114100000 +0000" stop="20210114110000 +0000" channel="TV2.my">
+<title lang="en">Relationship Its Complicated</title>
+<desc lang="en">Kisah seorang wanita yang secara tidak sengaja bertemu dan jatuh cinta dengan seorang pelakon lelaki popular sedangkan pada awalnya mereka berdua merupakan seteru.(n)</desc>
 <category lang="en">TV Show/Series</category>
 <category lang="en">Others (TV Shows)</category>
 <rating system="MY">
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210111170000 +0000" stop="20210111180000 +0000" channel="TV3">
-<title lang="en">Bidadari Salju</title>
-<desc lang="en">Kayra termakan dengan kata hasutan Marisa yang memburukkan Hariz, supaya Kayra jatuh cinta dengannya, dan untuk membalas dendam.(n)</desc>
-<category lang="en">TV Show/Series</category>
-<category lang="en">Drama</category>
+<programme start="20210114110000 +0000" stop="20210114113000 +0000" channel="TV2.my">
+<title lang="en">Radio Gaga</title>
+<desc lang="en">Norlela gemar mendengar lagu menggunakan pemain MP3 kepunyaannya. Suatu hari pemain MP3 tersebut terkena Krim Anti Virus ciptaan Izwan, seorang saintis di Syarikat ayahnya.(n)</desc>
+<category lang="en">News</category>
+<category lang="en">Business</category>
 <rating system="MY">
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210111180000 +0000" stop="20210111190000 +0000" channel="TV3">
-<title lang="en">Wanita Hari Ini</title>
-<desc lang="en">Program bual bicara memfokuskan isu kewanitaan, kanak-kanak dan keluarga keseluruhannya dengan menyediakan pelbagai topik menarik.(n)</desc>
-<category lang="en">TV Show/Series</category>
-<category lang="en">Talk Show</category>
+<programme start="20210114113000 +0000" stop="20210114120000 +0000" channel="TV2.my">
+<title lang="en">Berita Tamil</title>
+<desc lang="en">Ikuti berita yang memaparkan perkembangan terkini dan semasa termasuk berita ekonomi dan kewangan.(n)</desc>
+<category lang="en">News</category>
+<category lang="en">Business</category>
 <rating system="MY">
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210111190000 +0000" stop="20210111203000 +0000" channel="TV3">
-<title lang="en">Tanyalah Ustaz</title>
-<desc lang="en">Rancangan interaktif secara langsung ini bakal membincangkan soal jawab agama berkaitan feqah, akidah, munakahat, tasawuf, sirah, hadis dan tafsir Al-Quran.(n)</desc>
-<category lang="en">Documentary</category>
-<category lang="en">Religious</category>
+<programme start="20210114120000 +0000" stop="20210114123000 +0000" channel="TV2.my">
+<title lang="en">Berita Mandarin</title>
+<desc lang="en">Ikuti berita yang memaparkan perkembangan terkini dan semasa termasuk berita ekonomi dan kewangan.(n)</desc>
+<category lang="en">News</category>
+<category lang="en">Business</category>
 <rating system="MY">
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210111203000 +0000" stop="20210111213000 +0000" channel="TV3">
-<title lang="en">Andainya Takdir 2</title>
-<desc lang="en">Fatihah dalam dilema. Aleya pula bertegas mahu tinggal dengan ayahnya walau dipujuk Fatihah.(n)</desc>
-<category lang="en">TV Show/Series</category>
-<category lang="en">Drama</category>
-<rating system="MY">
-<value>U</value>
-</rating>
-</programme>
-<programme start="20210111213000 +0000" stop="20210111223000 +0000" channel="TV3">
-<title lang="en">WOWSHOP</title>
-<desc lang="en">Rangkaian membeli-belah dari rumah yang inovatif, yang boleh diakses di platform televisyen, dalam talian dan aplikasi mudah alih, pengalaman visual, interaktif dan menyeluruh yang unik.(n)</desc>
+<programme start="20210114123000 +0000" stop="20210114133000 +0000" channel="TV2.my">
+<title lang="en">Lelaki Itu Untukku</title>
+<desc lang="en">Drama kekeluargaan yang mengisahkan tentang hubungan dingin seorang anak gadis terhadap bapanya.(n)</desc>
 <category lang="en">TV Show/Series</category>
 <category lang="en">Others (TV Shows)</category>
 <rating system="MY">
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210111223000 +0000" stop="20210112000000 +0000" channel="TV3">
-<title lang="en">Tanyalah Ustaz</title>
-<desc lang="en">Rancangan interaktif secara langsung ini bakal membincangkan soal jawab agama berkaitan feqah, akidah, munakahat, tasawuf, sirah, hadis dan tafsir Al-Quran.(n)</desc>
-<category lang="en">Documentary</category>
-<category lang="en">Religious</category>
+<programme start="20210114133000 +0000" stop="20210114153000 +0000" channel="TV2.my">
+<title lang="en">Take 2</title>
+<desc lang="en">Ah Hu, Mad Dog, Jian Ren dan Sha Bao berusaha memulakan kehidupan baru selepas dibebaskan dari penjara. Mereka membuka perniagaan menjual ramen Jepun untuk mencari sumber pendapatan.(n)</desc>
+<category lang="en">TV Show/Series</category>
+<category lang="en">Others (TV Shows)</category>
 <rating system="MY">
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210112000000 +0000" stop="20210112013000 +0000" channel="TV3">
+<programme start="20210114153000 +0000" stop="20210114163000 +0000" channel="TV2.my">
+<title lang="en">Stalker</title>
+<desc lang="en">Kisah Beth Davis dan Jack Larsen dari pasukan khas 'Threat Assessment Unit' (TAU), Polis Los Angeles (LAPD) yang menyiasat pelbagai kes jenayah melibatkan pengintip (stalker).(n)</desc>
+<category lang="en">Movies</category>
+<category lang="en">Drama</category>
+<rating system="MY">
+<value>U</value>
+</rating>
+</programme>
+<programme start="20210114163000 +0000" stop="20210114173000 +0000" channel="TV2.my">
+<title lang="en">Metro Skuad</title>
+<desc lang="en">Drama kepolisan yang memaparkan Unit Metro Skuad membanteras kes-kes jenayah yang sering berlaku seperti penculikan, penyeludupan, pembunuhan, rompakan, penipuan dadah dan sebagainya.(n)</desc>
+<category lang="en">Movies</category>
+<category lang="en">Drama</category>
+<rating system="MY">
+<value>U</value>
+</rating>
+</programme>
+<programme start="20210114173000 +0000" stop="20210114180000 +0000" channel="TV2.my">
+<title lang="en">Live it up</title>
+<desc lang="en">Majalah Motivasi khusus bagi golongan remaja. Seorang personaliti atau ikon akan diperkenalkan dalam setiap episod untuk menjadi inspirasi para remaja.(n)</desc>
+<category lang="en">Movies</category>
+<category lang="en">Drama</category>
+<rating system="MY">
+<value>U</value>
+</rating>
+</programme>
+<programme start="20210114180000 +0000" stop="20210114190000 +0000" channel="TV2.my">
+<title lang="en">Cinta Agra</title>
+<desc lang="en">Drama kemasyarakatan yang memaparkan hubungan kekeluargaan, persahabatan dan percintaan.(n)</desc>
+<category lang="en">TV Show/Series</category>
+<category lang="en">Others (TV Shows)</category>
+<rating system="MY">
+<value>U</value>
+</rating>
+</programme>
+<programme start="20210114190000 +0000" stop="20210114200000 +0000" channel="TV2.my">
+<title lang="en">Klon</title>
+<desc lang="en">Kisah seorang budak lelaki bernama Izwan yang menemui cermin sakti! Cermin itu mempunyai kuasa ajaib. Ia mampu mengklonkan sesuatu, sama ada manusia, benda ataupun haiwan.(n)</desc>
+<category lang="en">Movies</category>
+<category lang="en">Drama</category>
+<rating system="MY">
+<value>U</value>
+</rating>
+</programme>
+<programme start="20210114200000 +0000" stop="20210114210000 +0000" channel="TV2.my">
+<title lang="en">Perplexed Love</title>
+<desc lang="en">Memaparkan kisah berkaitan dengan pelbagai isu semasa yang sering berlaku dalam masyarakat.(n)</desc>
+<category lang="en">Movies</category>
+<category lang="en">Drama</category>
+<rating system="MY">
+<value>U</value>
+</rating>
+</programme>
+<programme start="20210114210000 +0000" stop="20210114220000 +0000" channel="TV2.my">
+<title lang="en">Nyiur Nan Setandan</title>
+<desc lang="en">Kisah Haji Deris dan hajah Sutinah yang tinggal dikampung bersama anak bongsu mereka, Udin. Haji Deris menghadapi masalah kesihatan mata yng membimbangkan.(n)</desc>
+<category lang="en">TV Show/Series</category>
+<category lang="en">Others (TV Shows)</category>
+<rating system="MY">
+<value>U</value>
+</rating>
+</programme>
+<programme start="20210114220000 +0000" stop="20210114223000 +0000" channel="TV2.my">
+<title lang="en">Life Has No Remote</title>
+<desc lang="en">Rancangan majalah motivasi yang memberi pembelajaran tentang pengurusan dan motivasi diri kepada remaja masa kini melalui lakonan tentang topik-topik tertentu.(n)</desc>
+<category lang="en">Movies</category>
+<category lang="en">Drama</category>
+<rating system="MY">
+<value>U</value>
+</rating>
+</programme>
+<programme start="20210114223000 +0000" stop="20210114230000 +0000" channel="TV2.my">
+<title lang="en">Aura Hijab</title>
+<desc lang="en">Bersama pengacara Diana Amir dan Tiaz Al Khred dalam rancangan majalah fesyen muslimah yang akan menjemput selebriti dan usahawan wanita yang berjaya.(n)</desc>
+<category lang="en">Movies</category>
+<category lang="en">Drama</category>
+<rating system="MY">
+<value>U</value>
+</rating>
+</programme>
+<programme start="20210114230000 +0000" stop="20210115000000 +0000" channel="TV2.my">
+<title lang="en">Cinta Agra</title>
+<desc lang="en">Drama kemasyarakatan yang memaparkan hubungan kekeluargaan, persahabatan dan percintaan.(n)</desc>
+<category lang="en">TV Show/Series</category>
+<category lang="en">Others (TV Shows)</category>
+<rating system="MY">
+<value>U</value>
+</rating>
+</programme>
+<programme start="20210112000000 +0000" stop="20210112013000 +0000" channel="TV3.my">
 <title lang="en">(L) Malaysia Hari Ini</title>
 <desc lang="en">Dapatkan bahan-bahan berita terbaru di dalam negara dan juga antarabangsa termasuklah beberapa segmen menarik bersama penyampai MHI.(n)</desc>
 <category lang="en">News</category>
@@ -1542,7 +1819,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210112013000 +0000" stop="20210112020000 +0000" channel="TV3">
+<programme start="20210112013000 +0000" stop="20210112020000 +0000" channel="TV3.my">
 <title lang="en">(L) Buletin Pagi</title>
 <desc lang="en">Berita terbaru yang disiarkan dari bilik berita.(n)</desc>
 <category lang="en">News</category>
@@ -1551,7 +1828,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210112020000 +0000" stop="20210112023000 +0000" channel="TV3">
+<programme start="20210112020000 +0000" stop="20210112023000 +0000" channel="TV3.my">
 <title lang="en">Shimmer & Shine</title>
 <desc lang="en">Zeta menggunakan permata ajaib untuk mengecilkan segalanya di Zahramay; Leah, Zac, Zeta, dan genies bersaing dalam sukan yang paling menyeronokkan - Zoomicorn Toss.(n)</desc>
 <category lang="en">Children</category>
@@ -1560,7 +1837,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210112023000 +0000" stop="20210112030000 +0000" channel="TV3">
+<programme start="20210112023000 +0000" stop="20210112030000 +0000" channel="TV3.my">
 <title lang="en">Teenage Mutant Ninja Turtles</title>
 <desc lang="en">Raph dan Donatello terpaksa melarikan diri dari serangan Verminator Rex dan Honey Badgernya Ravagers setelah satu bencana yang menyebabkan kemusnahan besar berlaku.(n)</desc>
 <category lang="en">Children</category>
@@ -1569,7 +1846,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210112030000 +0000" stop="20210112033000 +0000" channel="TV3">
+<programme start="20210112030000 +0000" stop="20210112033000 +0000" channel="TV3.my">
 <title lang="en">Dunia Generasi Baru</title>
 <desc lang="en">Zuhal yang ingin membalas dendam terhadap Zahrah telah mengupah Rik supaya pura-pura jatuh hati terhadap gadis tersebut.(n)</desc>
 <category lang="en">TV Show/Series</category>
@@ -1578,7 +1855,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210112033000 +0000" stop="20210112040000 +0000" channel="TV3">
+<programme start="20210112033000 +0000" stop="20210112040000 +0000" channel="TV3.my">
 <title lang="en">5 Rencah 5 Rasa 2017</title>
 <desc lang="en">Kali ini Chef Sherson menunjukkan cara-cara menyediakan lima jenis hidangan masakan kampung dan tip-tip mudah yang boleh dilakukan oleh penonton di rumah.(n)</desc>
 <category lang="en">Lifestyle</category>
@@ -1587,7 +1864,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210112040000 +0000" stop="20210112050000 +0000" channel="TV3">
+<programme start="20210112040000 +0000" stop="20210112050000 +0000" channel="TV3.my">
 <title lang="en">(L) Wanita Hari Ini</title>
 <desc lang="en">Program bual bicara memfokuskan isu kewanitaan, kanak-kanak dan keluarga keseluruhannya dengan menyediakan pelbagai topik menarik.(n)</desc>
 <category lang="en">TV Show/Series</category>
@@ -1596,7 +1873,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210112050000 +0000" stop="20210112053000 +0000" channel="TV3">
+<programme start="20210112050000 +0000" stop="20210112053000 +0000" channel="TV3.my">
 <title lang="en">WOWSHOP</title>
 <desc lang="en">Rangkaian membeli-belah dari rumah yang inovatif, yang boleh diakses di platform televisyen, dalam talian dan aplikasi mudah alih, pengalaman visual, interaktif dan menyeluruh yang unik.(n)</desc>
 <category lang="en">TV Show/Series</category>
@@ -1605,7 +1882,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210112053000 +0000" stop="20210112060000 +0000" channel="TV3">
+<programme start="20210112053000 +0000" stop="20210112060000 +0000" channel="TV3.my">
 <title lang="en">(L) Buletin 130</title>
 <desc lang="en">Berita terbaru yang disiarkan dari bilik berita.(n)</desc>
 <category lang="en">News</category>
@@ -1614,7 +1891,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210112060000 +0000" stop="20210112070000 +0000" channel="TV3">
+<programme start="20210112060000 +0000" stop="20210112070000 +0000" channel="TV3.my">
 <title lang="en">Pengantin 100 Hari</title>
 <desc lang="en">Amar sedar di hospital dan kelam kabut balik ke rumah. Malangnya Sofia sudah pergi.(n)</desc>
 <category lang="en">TV Show/Series</category>
@@ -1623,7 +1900,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210112070000 +0000" stop="20210112080000 +0000" channel="TV3">
+<programme start="20210112070000 +0000" stop="20210112080000 +0000" channel="TV3.my">
 <title lang="en">Dia</title>
 <desc lang="en">Pertemuan pertama Aira dan Aidit membuatkan mereka gembira tetapi masih berhati-hati kerana bimbang elemen cinta akan merosakkan semula hubungan yang baru dibina semula.(n)</desc>
 <category lang="en">TV Show/Series</category>
@@ -1632,7 +1909,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210112080000 +0000" stop="20210112090000 +0000" channel="TV3">
+<programme start="20210112080000 +0000" stop="20210112090000 +0000" channel="TV3.my">
 <title lang="en">Yehh Jadu Hai Jinn Kai</title>
 <desc lang="en">Aman, seorang 'Nawab' tinggal di sebuah istana tertanya-tanya mengapa dia berbeza dengan yang lain.(n)</desc>
 <category lang="en">TV Show/Series</category>
@@ -1641,7 +1918,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210112090000 +0000" stop="20210112093000 +0000" channel="TV3">
+<programme start="20210112090000 +0000" stop="20210112093000 +0000" channel="TV3.my">
 <title lang="en">Boboiboy</title>
 <desc lang="en">BoBoiBoy dan rakan-rakan bertempur dengan penjenayah bersaudara yang diketuai oleh Tom bersama-sama Wak Bagaga, Bagogo, Bagigi dan Bagugu.(n)</desc>
 <category lang="en">TV Show/Series</category>
@@ -1650,7 +1927,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210112093000 +0000" stop="20210112110000 +0000" channel="TV3">
+<programme start="20210112093000 +0000" stop="20210112110000 +0000" channel="TV3.my">
 <title lang="en">Menongkah Kasih</title>
 <desc lang="en">Hilmi telah bertekad, jika Datin Rahmah boleh ego dengan keputusannya, dia juga boleh buat perkara yang sama.(n)</desc>
 <category lang="en">TV Show/Series</category>
@@ -1659,7 +1936,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210112110000 +0000" stop="20210112120000 +0000" channel="TV3">
+<programme start="20210112110000 +0000" stop="20210112120000 +0000" channel="TV3.my">
 <title lang="en">Bidadari Salju</title>
 <desc lang="en">Hariz sedaya upaya mengambil hati keluarga mentuanya yang tercalar kerana perbuatannya terhadap Kayra.(n)</desc>
 <category lang="en">TV Show/Series</category>
@@ -1668,7 +1945,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210112120000 +0000" stop="20210112130000 +0000" channel="TV3">
+<programme start="20210112120000 +0000" stop="20210112130000 +0000" channel="TV3.my">
 <title lang="en">(L) Buletin Utama</title>
 <desc lang="en">Berita tempatan dan antarabangsa yang terkini.(n)</desc>
 <category lang="en">News</category>
@@ -1677,7 +1954,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210112130000 +0000" stop="20210112140000 +0000" channel="TV3">
+<programme start="20210112130000 +0000" stop="20210112140000 +0000" channel="TV3.my">
 <title lang="en">999</title>
 <desc lang="en">999 is a Malaysian investigative reality television series which focuses on crimes in the country.(n)</desc>
 <category lang="en">TV Show/Series</category>
@@ -1686,7 +1963,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210112140000 +0000" stop="20210112150000 +0000" channel="TV3">
+<programme start="20210112140000 +0000" stop="20210112150000 +0000" channel="TV3.my">
 <title lang="en">Bougainvillea</title>
 <desc lang="en">Berlaku pertengkaran di antara Bibah dan Rosnah apabila Rosnah cuba bertanyakan tentang anaknya. Bibah menipu yang anak Rosnah sudah meninggal.(n)</desc>
 <category lang="en">TV Show/Series</category>
@@ -1695,7 +1972,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210112150000 +0000" stop="20210112160000 +0000" channel="TV3">
+<programme start="20210112150000 +0000" stop="20210112160000 +0000" channel="TV3.my">
 <title lang="en">Melting Softly</title>
 <desc lang="en">Dong-chan terperanjat apabila diberitahu bahawa isteri Lee Seok Du telah meninggal dunia secara tiba-tiba.(n)</desc>
 <category lang="en">TV Show/Series</category>
@@ -1704,7 +1981,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210112160000 +0000" stop="20210112163000 +0000" channel="TV3">
+<programme start="20210112160000 +0000" stop="20210112163000 +0000" channel="TV3.my">
 <title lang="en">(L) Nightline</title>
 <desc lang="en">News in English including business, financial and sports.(n)</desc>
 <category lang="en">News</category>
@@ -1713,7 +1990,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210112163000 +0000" stop="20210112170000 +0000" channel="TV3">
+<programme start="20210112163000 +0000" stop="20210112170000 +0000" channel="TV3.my">
 <title lang="en">WOWSHOP</title>
 <desc lang="en">Rangkaian membeli-belah dari rumah yang inovatif, yang boleh diakses di platform televisyen, dalam talian dan aplikasi mudah alih, pengalaman visual, interaktif dan menyeluruh yang unik.(n)</desc>
 <category lang="en">TV Show/Series</category>
@@ -1722,7 +1999,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210112170000 +0000" stop="20210112180000 +0000" channel="TV3">
+<programme start="20210112170000 +0000" stop="20210112180000 +0000" channel="TV3.my">
 <title lang="en">Bidadari Salju</title>
 <desc lang="en">Kayra bangun tidur agak lewat, lantas merasa kecewa tiada mesej mahupun panggilan dari Hariz.(n)</desc>
 <category lang="en">TV Show/Series</category>
@@ -1731,7 +2008,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210112180000 +0000" stop="20210112190000 +0000" channel="TV3">
+<programme start="20210112180000 +0000" stop="20210112190000 +0000" channel="TV3.my">
 <title lang="en">Wanita Hari Ini</title>
 <desc lang="en">Program bual bicara memfokuskan isu kewanitaan, kanak-kanak dan keluarga keseluruhannya dengan menyediakan pelbagai topik menarik.(n)</desc>
 <category lang="en">TV Show/Series</category>
@@ -1740,7 +2017,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210112190000 +0000" stop="20210112203000 +0000" channel="TV3">
+<programme start="20210112190000 +0000" stop="20210112203000 +0000" channel="TV3.my">
 <title lang="en">Tanyalah Ustaz</title>
 <desc lang="en">Rancangan interaktif secara langsung ini bakal membincangkan soal jawab agama berkaitan feqah, akidah, munakahat, tasawuf, sirah, hadis dan tafsir Al-Quran.(n)</desc>
 <category lang="en">Documentary</category>
@@ -1749,7 +2026,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210112203000 +0000" stop="20210112213000 +0000" channel="TV3">
+<programme start="20210112203000 +0000" stop="20210112213000 +0000" channel="TV3.my">
 <title lang="en">Bougainvillea</title>
 <desc lang="en">Kehidupan Adrian, Aryanna dan anak-anak mereka sangat bahagia. Keluarga mereka dilihat sebagai keluarga yang dihormati di tempat tinggal mereka.(n)</desc>
 <category lang="en">TV Show/Series</category>
@@ -1758,7 +2035,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210112213000 +0000" stop="20210112223000 +0000" channel="TV3">
+<programme start="20210112213000 +0000" stop="20210112223000 +0000" channel="TV3.my">
 <title lang="en">WOWSHOP</title>
 <desc lang="en">Rangkaian membeli-belah dari rumah yang inovatif, yang boleh diakses di platform televisyen, dalam talian dan aplikasi mudah alih, pengalaman visual, interaktif dan menyeluruh yang unik.(n)</desc>
 <category lang="en">TV Show/Series</category>
@@ -1767,7 +2044,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210112223000 +0000" stop="20210113000000 +0000" channel="TV3">
+<programme start="20210112223000 +0000" stop="20210113000000 +0000" channel="TV3.my">
 <title lang="en">Tanyalah Ustaz</title>
 <desc lang="en">Rancangan interaktif secara langsung ini bakal membincangkan soal jawab agama berkaitan feqah, akidah, munakahat, tasawuf, sirah, hadis dan tafsir Al-Quran.(n)</desc>
 <category lang="en">Documentary</category>
@@ -1776,7 +2053,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210113000000 +0000" stop="20210113013000 +0000" channel="TV3">
+<programme start="20210113000000 +0000" stop="20210113013000 +0000" channel="TV3.my">
 <title lang="en">(L) Malaysia Hari Ini</title>
 <desc lang="en">Dapatkan bahan-bahan berita terbaru di dalam negara dan juga antarabangsa termasuklah beberapa segmen menarik bersama penyampai MHI.(n)</desc>
 <category lang="en">News</category>
@@ -1785,7 +2062,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210113013000 +0000" stop="20210113020000 +0000" channel="TV3">
+<programme start="20210113013000 +0000" stop="20210113020000 +0000" channel="TV3.my">
 <title lang="en">(L) Buletin Pagi</title>
 <desc lang="en">Berita terbaru yang disiarkan dari bilik berita.(n)</desc>
 <category lang="en">News</category>
@@ -1794,7 +2071,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210113020000 +0000" stop="20210113023000 +0000" channel="TV3">
+<programme start="20210113020000 +0000" stop="20210113023000 +0000" channel="TV3.my">
 <title lang="en">Paw Patrol</title>
 <desc lang="en">Makhluk asing jatuh ke Bumi dan Pups cuba memperbaiki kapal angkasa agar ia dapat pulang ke planet asalnya.(n)</desc>
 <category lang="en">Children</category>
@@ -1803,7 +2080,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210113023000 +0000" stop="20210113030000 +0000" channel="TV3">
+<programme start="20210113023000 +0000" stop="20210113030000 +0000" channel="TV3.my">
 <title lang="en">Fairly Odd Parents</title>
 <desc lang="en">Mr Turner telah menyebabkan kapal mereka terkandas di sebuah pulau dan harus menyelamatkan keluarga itu kerana satu bom dipercayai akan meletup.(n)</desc>
 <category lang="en">Children</category>
@@ -1812,7 +2089,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210113030000 +0000" stop="20210113033000 +0000" channel="TV3">
+<programme start="20210113030000 +0000" stop="20210113033000 +0000" channel="TV3.my">
 <title lang="en">Dunia Generasi Baru</title>
 <desc lang="en">Zuhal yang ingin membalas dendam terhadap Zahrah telah mengupah Rik supaya pura-pura jatuh hati terhadap gadis tersebut.(n)</desc>
 <category lang="en">TV Show/Series</category>
@@ -1821,7 +2098,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210113033000 +0000" stop="20210113040000 +0000" channel="TV3">
+<programme start="20210113033000 +0000" stop="20210113040000 +0000" channel="TV3.my">
 <title lang="en">Dapur Panas</title>
 <desc lang="en">Berkonsepkan 'mobile cooking' yang santai, Chef Naem akan bersama artis undangan mengembara ke lokasi-lokasi menarik menaiki 'foodcart' Dapur Panas, melakukan aktiviti menarik dan memasak.(n)</desc>
 <category lang="en">Lifestyle</category>
@@ -1830,7 +2107,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210113040000 +0000" stop="20210113050000 +0000" channel="TV3">
+<programme start="20210113040000 +0000" stop="20210113050000 +0000" channel="TV3.my">
 <title lang="en">(L) Wanita Hari Ini</title>
 <desc lang="en">Program bual bicara memfokuskan isu kewanitaan, kanak-kanak dan keluarga keseluruhannya dengan menyediakan pelbagai topik menarik.(n)</desc>
 <category lang="en">TV Show/Series</category>
@@ -1839,7 +2116,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210113050000 +0000" stop="20210113053000 +0000" channel="TV3">
+<programme start="20210113050000 +0000" stop="20210113053000 +0000" channel="TV3.my">
 <title lang="en">WOWSHOP</title>
 <desc lang="en">Rangkaian membeli-belah dari rumah yang inovatif, yang boleh diakses di platform televisyen, dalam talian dan aplikasi mudah alih, pengalaman visual, interaktif dan menyeluruh yang unik.(n)</desc>
 <category lang="en">TV Show/Series</category>
@@ -1848,7 +2125,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210113053000 +0000" stop="20210113060000 +0000" channel="TV3">
+<programme start="20210113053000 +0000" stop="20210113060000 +0000" channel="TV3.my">
 <title lang="en">(L) Buletin 130</title>
 <desc lang="en">Berita terbaru yang disiarkan dari bilik berita.(n)</desc>
 <category lang="en">News</category>
@@ -1857,7 +2134,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210113060000 +0000" stop="20210113070000 +0000" channel="TV3">
+<programme start="20210113060000 +0000" stop="20210113070000 +0000" channel="TV3.my">
 <title lang="en">Pengantin 100 Hari</title>
 <desc lang="en">Amar mahu menceraikan Erina.Tetapi Erina minta tunggu 100 hari kerana dia ingin merasai menjadi isteri Amar selama 100 hari itu.(n)</desc>
 <category lang="en">TV Show/Series</category>
@@ -1866,7 +2143,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210113070000 +0000" stop="20210113080000 +0000" channel="TV3">
+<programme start="20210113070000 +0000" stop="20210113080000 +0000" channel="TV3.my">
 <title lang="en">Dia</title>
 <desc lang="en">Aidit berjumpa dengan Fatimah dan mahu Fatimah memberi peluang kepada dirinya dan Icha.(n)</desc>
 <category lang="en">TV Show/Series</category>
@@ -1875,7 +2152,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210113080000 +0000" stop="20210113090000 +0000" channel="TV3">
+<programme start="20210113080000 +0000" stop="20210113090000 +0000" channel="TV3.my">
 <title lang="en">Yehh Jadu Hai Jinn Kai</title>
 <desc lang="en">Walaupun kebenaran tentang pencarian Jinn untuk Aman terungkap, keluarganya berjuang untuk menjaga keselamatan Aman.(n)</desc>
 <category lang="en">TV Show/Series</category>
@@ -1884,7 +2161,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210113090000 +0000" stop="20210113093000 +0000" channel="TV3">
+<programme start="20210113090000 +0000" stop="20210113093000 +0000" channel="TV3.my">
 <title lang="en">Boboiboy</title>
 <desc lang="en">Lima Komander Scammer telah membina MegaBot ScamBot dan bertempur dengan Sampahbot Adu Du yang terbuat dari kapal angkasa.(n)</desc>
 <category lang="en">TV Show/Series</category>
@@ -1893,7 +2170,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210113093000 +0000" stop="20210113110000 +0000" channel="TV3">
+<programme start="20210113093000 +0000" stop="20210113110000 +0000" channel="TV3.my">
 <title lang="en">Menongkah Kasih</title>
 <desc lang="en">Jo telah menghilangkan diri dan Riyana menjadi tidak keruan. Dia menelefon Jo berkali-kali tetapi tidak berjawab. Riyana menjerit dan menangis sekuat hati.(n)</desc>
 <category lang="en">TV Show/Series</category>
@@ -1902,7 +2179,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210113110000 +0000" stop="20210113120000 +0000" channel="TV3">
+<programme start="20210113110000 +0000" stop="20210113120000 +0000" channel="TV3.my">
 <title lang="en">Bidadari Salju</title>
 <desc lang="en">Setiba di rumah Kayra begitu marah pada Hariz. Hatinya sakit dengan perangai cemburu suaminya. Mahu tidak mahu, Kayra mengambil keputusan untuk berhenti kerja.(n)</desc>
 <category lang="en">TV Show/Series</category>
@@ -1911,7 +2188,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210113120000 +0000" stop="20210113130000 +0000" channel="TV3">
+<programme start="20210113120000 +0000" stop="20210113130000 +0000" channel="TV3.my">
 <title lang="en">(L) Buletin Utama</title>
 <desc lang="en">Berita tempatan dan antarabangsa yang terkini.(n)</desc>
 <category lang="en">News</category>
@@ -1920,7 +2197,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210113130000 +0000" stop="20210113140000 +0000" channel="TV3">
+<programme start="20210113130000 +0000" stop="20210113140000 +0000" channel="TV3.my">
 <title lang="en">Hadiah Dari Tuhan</title>
 <desc lang="en">Ibu doktor Zabidi sangat terharu bila tahun ini hanya dapat beraya bersama cucu dan menantu.(n)</desc>
 <category lang="en">TV Show/Series</category>
@@ -1929,7 +2206,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210113140000 +0000" stop="20210113150000 +0000" channel="TV3">
+<programme start="20210113140000 +0000" stop="20210113150000 +0000" channel="TV3.my">
 <title lang="en">Bougainvillea</title>
 <desc lang="en">Azief kalut apabila Adrian beritahu yang Mimie membawa Aryanna bersiar-siar di luar. Dia bimbang Mimie akan mengapa-apakan Aryanna.(n)</desc>
 <category lang="en">TV Show/Series</category>
@@ -1938,7 +2215,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210113150000 +0000" stop="20210113160000 +0000" channel="TV3">
+<programme start="20210113150000 +0000" stop="20210113160000 +0000" channel="TV3.my">
 <title lang="en">Melting Softly</title>
 <desc lang="en">Dong-chan mengesyaki Lee Seok Du adalah dalang di sebalik percubaan pembunuhan terhadap profesor Hwang.(n)</desc>
 <category lang="en">TV Show/Series</category>
@@ -1947,7 +2224,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210113160000 +0000" stop="20210113163000 +0000" channel="TV3">
+<programme start="20210113160000 +0000" stop="20210113163000 +0000" channel="TV3.my">
 <title lang="en">(L) Nightline</title>
 <desc lang="en">News in English including business, financial and sports.(n)</desc>
 <category lang="en">News</category>
@@ -1956,7 +2233,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210113163000 +0000" stop="20210113170000 +0000" channel="TV3">
+<programme start="20210113163000 +0000" stop="20210113170000 +0000" channel="TV3.my">
 <title lang="en">WOWSHOP</title>
 <desc lang="en">Rangkaian membeli-belah dari rumah yang inovatif, yang boleh diakses di platform televisyen, dalam talian dan aplikasi mudah alih, pengalaman visual, interaktif dan menyeluruh yang unik.(n)</desc>
 <category lang="en">TV Show/Series</category>
@@ -1965,7 +2242,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210113170000 +0000" stop="20210113180000 +0000" channel="TV3">
+<programme start="20210113170000 +0000" stop="20210113180000 +0000" channel="TV3.my">
 <title lang="en">Bidadari Salju</title>
 <desc lang="en">Kayra jengkel dengan Hariz yang mengongkong hidupnya. Apabila Hariz terpaksa ke selatan untuk urusan kerja, Kayra berasa terlalu gembira.(n)</desc>
 <category lang="en">Movies</category>
@@ -1974,7 +2251,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210113180000 +0000" stop="20210113190000 +0000" channel="TV3">
+<programme start="20210113180000 +0000" stop="20210113190000 +0000" channel="TV3.my">
 <title lang="en">Wanita Hari Ini</title>
 <desc lang="en">Program bual bicara memfokuskan isu kewanitaan, kanak-kanak dan keluarga keseluruhannya dengan menyediakan pelbagai topik menarik.(n)</desc>
 <category lang="en">TV Show/Series</category>
@@ -1983,7 +2260,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210113190000 +0000" stop="20210113203000 +0000" channel="TV3">
+<programme start="20210113190000 +0000" stop="20210113203000 +0000" channel="TV3.my">
 <title lang="en">Tanyalah Ustaz</title>
 <desc lang="en">Rancangan interaktif secara langsung ini bakal membincangkan soal jawab agama berkaitan feqah, akidah, munakahat, tasawuf, sirah, hadis dan tafsir Al-Quran.(n)</desc>
 <category lang="en">Documentary</category>
@@ -1992,7 +2269,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210113203000 +0000" stop="20210113213000 +0000" channel="TV3">
+<programme start="20210113203000 +0000" stop="20210113213000 +0000" channel="TV3.my">
 <title lang="en">Bougainvillea</title>
 <desc lang="en">Hazira berseloroh memberitahu Mimie akan ajar siapa yang cuba rosakkan rumahtangga Aryanna.(n)</desc>
 <category lang="en">TV Show/Series</category>
@@ -2001,7 +2278,7 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210113213000 +0000" stop="20210113223000 +0000" channel="TV3">
+<programme start="20210113213000 +0000" stop="20210113223000 +0000" channel="TV3.my">
 <title lang="en">WOWSHOP</title>
 <desc lang="en">Rangkaian membeli-belah dari rumah yang inovatif, yang boleh diakses di platform televisyen, dalam talian dan aplikasi mudah alih, pengalaman visual, interaktif dan menyeluruh yang unik.(n)</desc>
 <category lang="en">TV Show/Series</category>
@@ -2010,7 +2287,250 @@
 <value>U</value>
 </rating>
 </programme>
-<programme start="20210113223000 +0000" stop="20210114000000 +0000" channel="TV3">
+<programme start="20210113223000 +0000" stop="20210114000000 +0000" channel="TV3.my">
+<title lang="en">Tanyalah Ustaz</title>
+<desc lang="en">Rancangan interaktif secara langsung ini bakal membincangkan soal jawab agama berkaitan feqah, akidah, munakahat, tasawuf, sirah, hadis dan tafsir Al-Quran.(n)</desc>
+<category lang="en">TV Show/Series</category>
+<category lang="en">Drama</category>
+<rating system="MY">
+<value>U</value>
+</rating>
+</programme>
+<programme start="20210114000000 +0000" stop="20210114013000 +0000" channel="TV3.my">
+<title lang="en">(L) Malaysia Hari Ini</title>
+<desc lang="en">Dapatkan bahan-bahan berita terbaru di dalam negara dan juga antarabangsa termasuklah beberapa segmen menarik bersama penyampai MHI.(n)</desc>
+<category lang="en">News</category>
+<category lang="en">Current Affairs</category>
+<rating system="MY">
+<value>U</value>
+</rating>
+</programme>
+<programme start="20210114013000 +0000" stop="20210114020000 +0000" channel="TV3.my">
+<title lang="en">(L) Buletin Pagi</title>
+<desc lang="en">Berita terbaru yang disiarkan dari bilik berita.(n)</desc>
+<category lang="en">News</category>
+<category lang="en">Current Affairs</category>
+<rating system="MY">
+<value>U</value>
+</rating>
+</programme>
+<programme start="20210114020000 +0000" stop="20210114023000 +0000" channel="TV3.my">
+<title lang="en">Top Wing</title>
+<desc lang="en">Kadet Top Wing mesti membawa kembali lemon berharga yang dicuri lanun kembali ke Lemon Shack.(n)</desc>
+<category lang="en">Children</category>
+<category lang="en">Others (TV Shows)</category>
+<rating system="MY">
+<value>U</value>
+</rating>
+</programme>
+<programme start="20210114023000 +0000" stop="20210114030000 +0000" channel="TV3.my">
+<title lang="en">The Adventures of Kid Danger</title>
+<desc lang="en">Semasa diberi penghormatan di muzium Celebrity Wax, Kapten Man and Kid Danger diserang oleh tentera 'wax' yang sedang marah.(n)</desc>
+<category lang="en">Children</category>
+<category lang="en">Others (TV Shows)</category>
+<rating system="MY">
+<value>U</value>
+</rating>
+</programme>
+<programme start="20210114030000 +0000" stop="20210114033000 +0000" channel="TV3.my">
+<title lang="en">Dunia Generasi Baru</title>
+<desc lang="en">Siska cuba sedaya upaya merahsiakan latar belakang keluarganya dengan mereka reka cerita dia anak orang miskin.(n)</desc>
+<category lang="en">TV Show/Series</category>
+<category lang="en">Drama</category>
+<rating system="MY">
+<value>U</value>
+</rating>
+</programme>
+<programme start="20210114033000 +0000" stop="20210114040000 +0000" channel="TV3.my">
+<title lang="en">Stylist Queen</title>
+<desc lang="en">STYLIST QUEEN merupakan program realiti yang membawa penonton melihat bagaimana penata gaya peribadi akan bekerjasama dengan 'ultra-demanding' pelanggan selebriti mereka.(n)</desc>
+<category lang="en">Lifestyle</category>
+<category lang="en">Fashion</category>
+<rating system="MY">
+<value>U</value>
+</rating>
+</programme>
+<programme start="20210114040000 +0000" stop="20210114050000 +0000" channel="TV3.my">
+<title lang="en">(L) Wanita Hari Ini</title>
+<desc lang="en">Program bual bicara memfokuskan isu kewanitaan, kanak-kanak dan keluarga keseluruhannya dengan menyediakan pelbagai topik menarik.(n)</desc>
+<category lang="en">TV Show/Series</category>
+<category lang="en">Talk Show</category>
+<rating system="MY">
+<value>U</value>
+</rating>
+</programme>
+<programme start="20210114050000 +0000" stop="20210114053000 +0000" channel="TV3.my">
+<title lang="en">WOWSHOP</title>
+<desc lang="en">Rangkaian membeli-belah dari rumah yang inovatif, yang boleh diakses di platform televisyen, dalam talian dan aplikasi mudah alih, pengalaman visual, interaktif dan menyeluruh yang unik.(n)</desc>
+<category lang="en">TV Show/Series</category>
+<category lang="en">Others (TV Shows)</category>
+<rating system="MY">
+<value>U</value>
+</rating>
+</programme>
+<programme start="20210114053000 +0000" stop="20210114060000 +0000" channel="TV3.my">
+<title lang="en">(L) Buletin 130</title>
+<desc lang="en">Berita terbaru yang disiarkan dari bilik berita.(n)</desc>
+<category lang="en">News</category>
+<category lang="en">Current Affairs</category>
+<rating system="MY">
+<value>U</value>
+</rating>
+</programme>
+<programme start="20210114060000 +0000" stop="20210114070000 +0000" channel="TV3.my">
+<title lang="en">Pengantin 100 Hari</title>
+<desc lang="en">Erina menjadi seorang isteri yang setia kepada Amar, dia menemani dan menyediakan sarapan sekalipun tidak disukai Amar.(n)</desc>
+<category lang="en">TV Show/Series</category>
+<category lang="en">Drama</category>
+<rating system="MY">
+<value>U</value>
+</rating>
+</programme>
+<programme start="20210114070000 +0000" stop="20210114080000 +0000" channel="TV3.my">
+<title lang="en">Dia</title>
+<desc lang="en">Fatimah masih sukar untuk menerima Icha dan sentiasa bertengkar dengan Hafiz tentang isu ini.(n)</desc>
+<category lang="en">TV Show/Series</category>
+<category lang="en">Drama</category>
+<rating system="MY">
+<value>U</value>
+</rating>
+</programme>
+<programme start="20210114080000 +0000" stop="20210114090000 +0000" channel="TV3.my">
+<title lang="en">Yehh Jadu Hai Jinn Kai</title>
+<desc lang="en">Keputusan Aman yang tidak dijangka mengejutkan keluarga, sementara itu, Anjum cuba menguji Ayaana.(n)</desc>
+<category lang="en">TV Show/Series</category>
+<category lang="en">Drama</category>
+<rating system="MY">
+<value>U</value>
+</rating>
+</programme>
+<programme start="20210114090000 +0000" stop="20210114093000 +0000" channel="TV3.my">
+<title lang="en">Boboiboy</title>
+<desc lang="en">BoBoiBoy, Gopal, dan Papa Zola sekali lagi memasuki dunia permainan untuk menyelamatkan isteri Papa Zola iaitu Mama Zila.(n)</desc>
+<category lang="en">Children</category>
+<category lang="en">Others (TV Shows)</category>
+<rating system="MY">
+<value>U</value>
+</rating>
+</programme>
+<programme start="20210114093000 +0000" stop="20210114110000 +0000" channel="TV3.my">
+<title lang="en">Menongkah Kasih</title>
+<desc lang="en">Pelangi Emas menerima banyak aduan berikutan beberapa kesilapan yang dilakukan semasa projek berada dikendalikan pengurus yang lama.(n)</desc>
+<category lang="en">TV Show/Series</category>
+<category lang="en">Drama</category>
+<rating system="MY">
+<value>U</value>
+</rating>
+</programme>
+<programme start="20210114110000 +0000" stop="20210114120000 +0000" channel="TV3.my">
+<title lang="en">Bidadari Salju</title>
+<desc lang="en">Hidup Hariz tidak terurus. Dia tidak peduli apa lagi. Kayra adalah jantungnya dan kematian Kayra adalah kematiannya juga.(n)</desc>
+<category lang="en">TV Show/Series</category>
+<category lang="en">Drama</category>
+<rating system="MY">
+<value>U</value>
+</rating>
+</programme>
+<programme start="20210114120000 +0000" stop="20210114130000 +0000" channel="TV3.my">
+<title lang="en">(L) Buletin Utama</title>
+<desc lang="en">Berita tempatan dan antarabangsa yang terkini.(n)</desc>
+<category lang="en">News</category>
+<category lang="en">Current Affairs</category>
+<rating system="MY">
+<value>U</value>
+</rating>
+</programme>
+<programme start="20210114130000 +0000" stop="20210114140000 +0000" channel="TV3.my">
+<title lang="en">Hadiah Dari Tuhan</title>
+<desc lang="en">Qul mengalami kecederaan ringan, tetapi dia pulang lewat ke rumah menyebabkan Fatin yang terlalu lapar sendirian di rumah memberontak.(n)</desc>
+<category lang="en">TV Show/Series</category>
+<category lang="en">Drama</category>
+<rating system="MY">
+<value>U</value>
+</rating>
+</programme>
+<programme start="20210114140000 +0000" stop="20210114150000 +0000" channel="TV3.my">
+<title lang="en">Bougainvillea</title>
+<desc lang="en">Adrian gembira melihat Aryanna sudah semakin pulih dan mula mengingat semula biarpun tidak sepenuhnya dan nampak masih lemah.(n)</desc>
+<category lang="en">TV Show/Series</category>
+<category lang="en">Drama</category>
+<rating system="MY">
+<value>U</value>
+</rating>
+</programme>
+<programme start="20210114150000 +0000" stop="20210114160000 +0000" channel="TV3.my">
+<title lang="en">Melting Softly</title>
+<desc lang="en">Konco-konco Hyeong Du menyelinap masuk ke dalam makmal profesor Hwang dengan niat untuk membunuh Seok Du.(n)</desc>
+<category lang="en">TV Show/Series</category>
+<category lang="en">Drama</category>
+<rating system="MY">
+<value>U</value>
+</rating>
+</programme>
+<programme start="20210114160000 +0000" stop="20210114163000 +0000" channel="TV3.my">
+<title lang="en">(L) Nightline</title>
+<desc lang="en">News in English including business, financial and sports.(n)</desc>
+<category lang="en">News</category>
+<category lang="en">Current Affairs</category>
+<rating system="MY">
+<value>U</value>
+</rating>
+</programme>
+<programme start="20210114163000 +0000" stop="20210114170000 +0000" channel="TV3.my">
+<title lang="en">WOWSHOP</title>
+<desc lang="en">Rangkaian membeli-belah dari rumah yang inovatif, yang boleh diakses di platform televisyen, dalam talian dan aplikasi mudah alih, pengalaman visual, interaktif dan menyeluruh yang unik.(n)</desc>
+<category lang="en">TV Show/Series</category>
+<category lang="en">Others (TV Shows)</category>
+<rating system="MY">
+<value>U</value>
+</rating>
+</programme>
+<programme start="20210114170000 +0000" stop="20210114180000 +0000" channel="TV3.my">
+<title lang="en">Bidadari Salju</title>
+<desc lang="en">Ketika Kayra terkaku dek membaca mesej kes khalwat antara Hariz dan Jeanny, tak dia sedari Hariz pulang ke rumah.(n)</desc>
+<category lang="en">Movies</category>
+<category lang="en">Drama</category>
+<rating system="MY">
+<value>U</value>
+</rating>
+</programme>
+<programme start="20210114180000 +0000" stop="20210114190000 +0000" channel="TV3.my">
+<title lang="en">Wanita Hari Ini</title>
+<desc lang="en">Program bual bicara memfokuskan isu kewanitaan, kanak-kanak dan keluarga keseluruhannya dengan menyediakan pelbagai topik menarik.(n)</desc>
+<category lang="en">TV Show/Series</category>
+<category lang="en">Talk Show</category>
+<rating system="MY">
+<value>U</value>
+</rating>
+</programme>
+<programme start="20210114190000 +0000" stop="20210114203000 +0000" channel="TV3.my">
+<title lang="en">Tanyalah Ustaz</title>
+<desc lang="en">Rancangan interaktif secara langsung ini bakal membincangkan soal jawab agama berkaitan feqah, akidah, munakahat, tasawuf, sirah, hadis dan tafsir Al-Quran.(n)</desc>
+<category lang="en">Documentary</category>
+<category lang="en">Religious</category>
+<rating system="MY">
+<value>U</value>
+</rating>
+</programme>
+<programme start="20210114203000 +0000" stop="20210114213000 +0000" channel="TV3.my">
+<title lang="en">Bougainvillea</title>
+<desc lang="en">Rancangan interaktif secara langsung ini bakal membincangkan soal jawab agama berkaitan feqah, akidah, munakahat, tasawuf, sirah, hadis dan tafsir Al-Quran.(n)</desc>
+<category lang="en">TV Show/Series</category>
+<category lang="en">Drama</category>
+<rating system="MY">
+<value>U</value>
+</rating>
+</programme>
+<programme start="20210114213000 +0000" stop="20210114223000 +0000" channel="TV3.my">
+<title lang="en">WOWSHOP</title>
+<desc lang="en">Rangkaian membeli-belah dari rumah yang inovatif, yang boleh diakses di platform televisyen, dalam talian dan aplikasi mudah alih, pengalaman visual, interaktif dan menyeluruh yang unik.(n)</desc>
+<category lang="en">TV Show/Series</category>
+<category lang="en">Others (TV Shows)</category>
+<rating system="MY">
+<value>U</value>
+</rating>
+</programme>
+<programme start="20210114223000 +0000" stop="20210115000000 +0000" channel="TV3.my">
 <title lang="en">Tanyalah Ustaz</title>
 <desc lang="en">Rancangan interaktif secara langsung ini bakal membincangkan soal jawab agama berkaitan feqah, akidah, munakahat, tasawuf, sirah, hadis dan tafsir Al-Quran.(n)</desc>
 <category lang="en">TV Show/Series</category>
