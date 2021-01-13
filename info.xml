@@ -1,0 +1,10 @@
+<tv generator-info-name="WebGrab+Plus/w MDB & REX Postprocess -- version V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+<channel id="info">
+<display-name lang="en">info</display-name>
+<icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png"/>
+<url>http://www.astro.com.my</url>
+</channel>
+<programme start="20210113000000 +0700" stop="20210115003000 +0700" channel="info">
+<title lang="id">Info Penambahan atau penukaran EPG LINK, Sila Play . .. .</title>
+<desc lang="id">Info Penambahan atau penukaran EPG LINK(n)</desc>
+</programme>
